@@ -1,0 +1,37 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/venki/Hub/Library/INSAID/01_Work/08-luigi/project-1
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=2694b1a4a2960996d8fde79649e5cb1c97f05e42be3def49
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=2694b1a4a2960996d8fde79649e5cb1c97f05e42be3def49
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | WARNING] Notebook Untitled.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8f096de9-54aa-4df9-87b7-e19479407d14
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8f096de9-54aa-4df9-87b7-e19479407d14
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Untitled.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 8f096de9-54aa-4df9-87b7-e19479407d14

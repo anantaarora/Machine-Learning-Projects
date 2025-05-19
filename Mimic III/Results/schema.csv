@@ -1,0 +1,71 @@
+﻿variable_name,category,variable_type
+Hospital Mortality,Target,binary
+Age,Demographic,continuous
+Gender,Demographic,binary
+Uncomplicated Hypertension,Medical history,binary
+Complicated Hypertension,Medical history,binary
+Uncomplicated Diabetes,Medical history,binary
+Complicated Diabetes,Medical history,binary
+Malignancy,Medical history,binary
+Hematologic Disease,Medical history,binary
+Metastasis,Medical history,binary
+Peripheral Vascular Disease,Medical history,binary
+Hypothyroidism,Medical history,binary
+Chronic Heart Failure,Medical history,binary
+Stroke,Medical history,binary
+Liver Disease,Medical history,binary
+SAPS II,Disease severity,ordinal
+SOFA,Disease severity,ordinal
+OASIS,Disease severity,ordinal
+Sepsis,Diagnosis,binary
+Any Organ Failure,Diagnosis,binary
+Severe Respiratory Failure,Diagnosis,binary
+Severe Coagulation Failure,Diagnosis,binary
+Severe Liver Failure,Diagnosis,binary
+Severe Cardiovascular Failure,Diagnosis,binary
+Severe Central Nervous System Failure,Diagnosis,binary
+Severe Renal Failure,Diagnosis,binary
+Respiratory Dysfunction,Diagnosis,binary
+Cardiovascular Dysfunction,Diagnosis,binary
+Renal Dysfunction,Diagnosis,binary
+Hematologic Dysfunction,Diagnosis,binary
+Metabolic Dysfunction,Diagnosis,binary
+Neurologic Dysfunction,Diagnosis,binary
+Max Heart Rate,Vital signs,continuous
+Min Heart Rate,Vital signs,continuous
+Mean Heart Rate,Vital signs,continuous
+Max MAP,Vital signs,continuous
+Min MAP,Vital signs,continuous
+Mean MAP,Vital signs,continuous
+Max Systolic Pressure,Vital signs,continuous
+Min Systolic Pressure,Vital signs,continuous
+Mean Systolic Pressure,Vital signs,continuous
+Max Diastolic Pressure,Vital signs,continuous
+Min Diastolic Pressure,Vital signs,continuous
+Mean Diastolic Pressure,Vital signs,continuous
+Max Temperature,Vital signs,continuous
+Min Temperature,Vital signs,continuous
+Mean Temperature,Vital signs,continuous
+Max Lactate,Laboratory results,continuous
+Min Lactate,Laboratory results,continuous
+Mean Lactate,Laboratory results,continuous
+Max pH,Laboratory results,continuous
+Min pH,Laboratory results,continuous
+Mean pH,Laboratory results,continuous
+Max Glucose,Laboratory results,continuous
+Min Glucose,Laboratory results,continuous
+Mean Glucose,Laboratory results,continuous
+Max WBC,Laboratory results,continuous
+Min WBC,Laboratory results,continuous
+Mean WBC,Laboratory results,continuous
+Max BUN,Laboratory results,continuous
+Min BUN,Laboratory results,continuous
+Mean BUN,Laboratory results,continuous
+Max Creatinine,Laboratory results,continuous
+Min Creatinine,Laboratory results,continuous
+Mean Creatinine,Laboratory results,continuous
+Max Hemoglobin,Laboratory results,continuous
+Min Hemoglobin,Laboratory results,continuous
+Mean Hemoglobin,Laboratory results,continuous
+Ventilation Duration (h),Treatment,continuous
+RRT,Treatment,binary

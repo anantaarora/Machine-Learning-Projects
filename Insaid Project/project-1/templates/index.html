@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Insaid career launchpad</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="./static/vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="./static/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="./static/fonts/iconic/css/material-design-iconic-font.min.css">
+	<link rel="stylesheet" type="text/css" href="./static/css/style1.css" />
+	<link rel="stylesheet" type="text/css" href="./static/css/sweetalert.css" />
+<!--===============================================================================================-->
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="./static/css/main.css">
+<!--===============================================================================================-->
+<style>
+    select.input100 {
+    height: 55px;
+}
+
+input[type="date"]:before {
+    content: attr(placeholder) !important;
+    color: #aaa;
+    margin-right: 0.5em;
+  }
+  input[type="date"]:focus:before,
+  input[type="date"]:valid:before {
+    content: "";
+  }
+</style>
+</head>
+<body>
+
+	<div class="container-contact100">
+
+		<div class="wrap-contact100" id="section1">
+			<img src="https://www.insaid.co/wp-content/uploads/2018/04/INSAID_Logo-1.png" alt="insaid" style="display: block;margin-left: auto;margin-right: auto;">
+
+			<form id="myForm" class="container needs-validation mt-4" method='post' novalidate onsubmit="return predictSales()">
+					<!-- <span class="contact100-form-title">
+					</span> -->
+					<div class="form-group validate-input">
+						<!-- <label  for="first-name">Your Name <span style="color: red; font-size: 16pt">*</span></label> -->
+						<input id="engagement_score" class="form-control mt-1" type="text" name="engagement_score" placeholder="Engagement Score" required>
+					</div>
+					<div class="form-group validate-input">
+						<!-- <label  for="email">Email Address <span style="color: red; font-size: 16pt">*</span></label> -->
+						<input id="dob" class="form-control mt-1" type="date" name="dob" placeholder="Date of Birth" required>
+					</div>
+					<div class="form-group validate-input">
+						<!-- <label  for="LinkedInurl"><span style="color: red; font-size: 16pt">*</span></label> -->
+						<select id="gender" class="form-control mt-1" type="text" name="gender" required>
+						<option value="" disabled selected>Gender</option>
+						<option value="Male">Male</option>
+						<option value="Female">Female</option>
+						</select>
+					</div>
+					<div class="form-group validate-input">
+						<!-- <label  for="Program">Select your Program <span style="color: red; font-size: 16pt">*</span></label> -->
+						<select id="marital_status" class="form-control mt-1" name="marital_status" required>
+						<option value="" disabled selected>Marital Status</option>
+						<option value="Single">Single</option>
+						<option value="Married">Married</option>
+						</select>
+					</div>
+					<div class="form-group validate-input">
+					<!-- <label  for="batch">Select your batch <span style="color: red; font-size: 16pt">*</span></label> -->
+					<input id="company" class="form-control mt-1" type="text" name="company" placeholder="Company" required>
+					</div>
+					<div class="form-group validate-input">
+						<!-- <label  for="Githuburl">Your Github URL <span style="color: red; font-size: 16pt">*</span></label> -->
+						<input id="workexp" class="form-control mt-1" type="number" name="workexp" step='0.01' placeholder="Total work experience (Years)" required>
+					</div>
+					<div class="form-group validate-input">
+						<select id="department" class="form-control mt-1" name="department" placeholder="department" required>
+							<option value="Finance">Finance</option>
+							<option value="DataBase">Database</option>
+							<option value="Human Resources">Human Resources</option>
+							<option value="IT">IT</option>
+							<option value="Marketing">Marketing</option>
+							<option value="Operations">Operations</option>
+							<option value="Sales">Sales</option>
+							<option value="Research and Development">Research and Development</option>
+							<option value="Other">Other</option> 
+						</select>
+					</div>
+					<div class="form-group validate-input">
+						<select id="area" class="form-control mt-1" name="area" required>
+							<option value="" disabled selected>Select City..</option>
+						</select>
+					</div>
+
+					<div class="container-contact100-form-btn">
+						<button class="contact100-form-btn" type="submit" name="submit">
+							<span>
+								Submit
+								<i class="zmdi zmdi-arrow-right m-l-8"></i>
+							</span>
+						</button>
+					</div>
+				</form>
+		</div>
+		<ul class="cb-slideshow" style="list-style:none;">
+				<li>Image 01</li>
+				<li>Image 02</li>
+				<li>Image 03</li>
+				<li>Image 04</li>
+				<li>Image 05</li>
+		</ul>
+	</div>
+
+<!--===============================================================================================-->
+	<script src="./static/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="./static/vendor/bootstrap/js/popper.js"></script>
+	<script src="./static/vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="./static/js/sweetalert.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/js/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="./static/js/main.js"></script>
+
+	<script type="text/javascript">
+
+		$.ajax({
+			url:'./static/data/cities.json',
+			type:'GET',
+			dataType: 'json',
+			success: function( data ) {
+				$.each(data, function(i, value) {
+					$('#area').append($('<option>').text(value['name']).attr('value', value['state']));
+				});
+			}
+		});
+
+		$('#area').select2({
+			sorter: data => data.sort((a,b) => a.text.toLowerCase() > b.text.toLowerCase() ? 0 : -1)
+		});
+
+		function toTitleCase(str) {
+			return str.replace(
+				/\w\S*/g,
+				function(txt) {
+					return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+				}
+			);
+		}
+
+        function predictSales() {
+
+			var dob = new Date($("#dob").val());
+
+			var today = new Date();
+			var age = Math.floor((today-dob) / (365.25 * 24 * 60 * 60 * 1000));
+			//console.log(age);
+
+            //var str = {"engagement_score": 234,"age":24,"marital_status":"Married","gender": "Female","experience": "High","area":"North","company":"Mnc"};
+			var str = { "engagement_score": parseInt($("#engagement_score").val()),
+						"company": toTitleCase($("#company").val()),
+						"age":age,
+						"marital_status": $("#marital_status").val(),
+						"gender": $("#gender").val(),
+						"experience": parseFloat($("#workexp").val()),
+						"department": $("#department").val(),
+						"city": $("#area").val()
+					  };
+            //console.log(JSON.stringify(str));
+          $.ajax({
+            url: "http://127.0.0.1:5000/predictStatus/",
+			contentType: 'application/json',
+            type: "POST",
+            dataType: "json",
+            data: JSON.stringify(str),
+            success : function(data){
+				if(data['predicted_status'] == 1)
+					swal("Yes!","","success");
+				else
+					swal("No!","","error");
+            }
+          });
+
+          return false;
+        }
+    </script>
+</body>
+</html>

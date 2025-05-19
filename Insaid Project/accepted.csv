@@ -1,0 +1,839 @@
+Name,Mobile Number,Email Address,EngagementScore,Company,Age,MaritalStatus,gender,Exp,Interested,department,City
+Anand,918050624231,anandkumar35@gmail.com,77.0,VeServ,37.0,Married,Female,5,Yes,IT, Thiruvananthapuram
+Naga Sachin,919611299022,m_sachin_kumar@yahoo.co.in,83.0,Tech Mahindra,30.0,Single,Male,2,Yes,IT,Madurai
+Poornima,919916835502,poornima_prksh@yahoo.co.in,87.0,HCL,26.0,Single,Male,5,Yes,IT,Mysore
+sklabala@gmail.com,919663643657,sklabala@gmail.com,4.0,Eclature Technologies,45.0,Married,Female,3,Yes,IT,Coimbatore
+Anant Jain,919650244394,anant2005@gmail.com,58.0,Harini Informatics,43.0,Married,Female,3,Yes,IT,Pondicherry
+Bhanu,918904563485,bhanu.chandra@rapyder.com,85.0,Google,25.0,Single,Male,3,Yes,IT,Pondicherry
+Kali Pandey,919831320818,kalishankarpandey9@gmail.com,50.0,Deloitte,24.0,Single,Male,3,Yes,IT, Thiruvananthapuram
+Paras Prakash,917044071364,pprakash1007@gmail.com,66.0,CapGemini,26.0,Single,Male,4,Yes,IT,Madurai
+Yogesh,919663460234,r.yogeshchandra@gmail.com,86.0,Deloitte,27.0,Single,Male,5,Yes,IT, Thiruvananthapuram
+ravi ranjan,919007477538,r25july@gmail.com,83.0,Accenture,25.0,Single,Male,2,Yes,IT,Chennai
+Datla Venkata,919538221489,rangaraju.19@gmail.com,72.0,CapGemini,47.0,Single,Male,3,Yes,IT,Pondicherry
+Akshay,919833101933,sadekar.akshay@gmail.com,52.0,Infosys,37.0,Single,Male,4,Yes,IT,Madurai
+Abhishek Kashyap,919599028399,abhishekashyap21@gmail.com,86.0,Google,26.0,Single,Male,5,Yes,IT,Hyderabad
+Alok Mallik,919999666838,Alok.k.mallik@gmail.com,75.0,HCL,43.0,Single,Male,3,Yes,IT,Mysore
+Sushil Shinde,918983634714,sushilbshinde@gmail.com,81.0,Genpact,23.0,Single,Male,2,Yes,IT, Thiruvananthapuram
+Seema,919657717176,seemz_r@yahoo.co.in,77.0,Info Edge Solutions,43.0,Married,Female,2,Yes,IT,Mysore
+Alok,917507147847,alokt456@gmail.com,55.0,Wipro,44.0,Single,Male,3,Yes,IT,Madurai
+Sibraj,919674991018,sibrajb@gmail.com,83.0,Amazon,22.0,Single,Male,1,Yes,IT,Chennai
+Sudeep,917620683832,sudeep48raj93@gmail.com,84.0,Tech Mahindra,24.0,Single,Male,3,Yes,IT,Coimbatore
+Ramesh,919916775555,csramesh1@gmail.com,67.0,Hi Caliber IT Solutions,38.0,Married,Female,3,Yes,IT,Hyderabad
+Pranav Nair,919884799077,pranavnair222@gmail.com,76.0,Wipro,29.0,Single,Male,1,Yes,IT,Chennai
+Aditya Pratap Singh,918588059384,aditya111@gmail.com,88.0,CTS,26.0,Single,Male,3,Yes,IT,Chennai
+Ravi Kumar Sahu,919752899214,ravi.kumar.sahu06@gmail.com,89.0,CTS,23.0,Single,Male,3,Yes,IT,Chennai
+Shrikant,918149670678,shrikant.kulkarni1703@gmail.com,66.0,Infosys,30.0,Single,Male,2,Yes,IT,Hyderabad
+VamshiKrishna,919703056776,vamshiandkrishna@gmail.com,82.0,Tech Mahindra,23.0,Single,Male,4,Yes,IT,Coimbatore
+Rishi,919821475199,rishikumar19466@gmail.com,66.0,Brio Technologies Private Limited,43.0,Married,Female,3,Yes,IT,Bangalore
+Shyam Sundar,919886032785,shyam.sunder4@gmail.com,82.0,Wipro,29.0,Single,Male,5,Yes,IT,Pondicherry
+Swapnil,917208716053,swap002@gmail.com,70.0,I2Space Technologies,32.0,Married,Female,1,Yes,IT,Madurai
+Aparna,917207361545,aparnasingupuram@gmail.com,87.0,Genpact,24.0,Single,Male,3,Yes,IT,kochi
+Ashish,918826262333,ashiish07@gmail.com,83.0,TCS,23.0,Single,Male,1,Yes,IT,Pondicherry
+Sadanand,919052654333,sadan12_anand@yahoo.co.in,81.0,Microsoft,22.0,Single,Male,2,Yes,IT,Madurai
+Nipun Kumar,9971567887,nipunkumar.nk@gmail.com,85.0,TCS,26.0,Single,Male,1,Yes,IT, Thiruvananthapuram
+Supriya Sahil Shaha,917769056417,shahsupriya86@gmail.com,56.0,Wipro,40.0,Single,Male,3,Yes,IT,Coimbatore
+Suresh C,919963204478,suresh2153@gmail.com,85.0,HCL,30.0,Single,Male,2,Yes,IT,Pondicherry
+Vijay,918660245709,vijaykum85@gmail.com,64.0,Jaro Education,39.0,Married,Female,1,Yes,IT,Bangalore
+Rashmi,919986021591,rash_arch_1@yahoo.co.in,81.0,Deloitte,30.0,Single,Male,5,Yes,IT,Mysore
+Anurag Nandigama,917799111588,nandigama.anurag@gmail.com,82.0,HCL,30.0,Single,Male,2,Yes,IT,Coimbatore
+Vinod Naik,919930335572,naikvinodv@yahoo.com,6.0,Google,41.0,Single,Male,2,Yes,IT, Thiruvananthapuram
+Pavani,919810861067,nvsp2003@hotmail.com,74.0,Amazon,23.0,Single,Male,2,Yes,IT,Chennai
+Mahesh G,919036292290,gmaheshreddy19@gmail.com,68.0,TCS,32.0,Single,Male,5,Yes,IT,Bangalore
+Swathi,919555048824,jamiswathi@gmail.com,66.0,CapGemini,28.0,Single,Male,4,Yes,IT,Chennai
+Abhishek,918447850648,abhisheklohiya28@gmail.com,14.0,Accenture,26.0,Single,Male,4,Yes,IT,Pondicherry
+Prateek,8369082848,prateekbm@gmail.com,62.0,Omniscient IT Solutions Pvt Ltd,31.0,Married,Female,1,Yes,IT,Bangalore
+Ramlal Arya,9426154795,ramlal_arya@yahoo.in,75.0,Esalemedia,43.0,Married,Female,4,Yes,IT,Bangalore
+Swati,9850967047,Sogee.Patil@gmail.com,83.0,CTS,27.0,Single,Male,3,Yes,IT,Coimbatore
+Sathyanarayan,9967030423,satty_2006@yahoo.co.in,68.0,Google,38.0,Single,Male,3,Yes,IT,kochi
+Vamshi,8897478456,vtalakoti@gmail.com,66.0,Genpact,27.0,Single,Male,2,Yes,IT,Hyderabad
+Vignesh,919789696973,ravi.vignesh3@gmail.com,76.0,Deloitte,33.0,Single,Male,4,Yes,IT,Hyderabad
+Vivek,9845804126,dnvivek@gmail.com,88.0,Genpact,30.0,Single,Male,5,Yes,IT,Madurai
+Raviraj Yermalkar,919766643405,rvyermalkar@gmail.com,74.0,Askmeguru,35.0,Married,Female,3,Yes,IT,Coimbatore
+Deepa,919980400336,deepaguptha@gmail.com,56.0,Metacube Software Pvt. Ltd,47.0,Married,Female,2,Yes,IT, Thiruvananthapuram
+Ankita,919331297456,ruia.ankita@gmail.com,75.0,CTS,43.0,Single,Male,1,Yes,IT,Chennai
+Jamuna Chari,919632833531,26chari.jamuna@gmail.com,65.0,Wipro,29.0,Single,Male,1,Yes,IT,Mysore
+Ankur Mangotia,918510803989,ankurmankotia89@gmail.com,50.0,Accuracy,33.0,Married,Female,3,Yes,IT,kochi
+Ramesh Vijayanagar,919884065848,rameshmca8@gmail.com,25.0,Amazon,54.0,Single,Male,4,Yes,IT,kochi
+Roshan,917719088710,shahroshan22@gmail.com,76.0,Wipro,27.0,Single,Male,1,Yes,IT,Mysore
+Amarnath,919949275081,amarnath402@gmail.com,20.0,Mindtree,45.0,Married,Female,1,Yes,IT, Thiruvananthapuram
+Vinod Wakade,918600286064,wakadevg777@gmail.com,89.0,HCL,26.0,Single,Male,2,Yes,IT, Thiruvananthapuram
+Sateesh,919704544436,sateesh.chenna@gmail.com,66.0,Google,26.0,Single,Male,2,Yes,IT,Pondicherry
+Vivek,919513370070,ahanviv@gmail.com,79.0,Amazon,28.0,Single,Male,1,Yes,IT,Pondicherry
+Komala K.V.,917795459639,komala.venkataramaiah@gmail.com,87.0,Deloitte,23.0,Single,Male,4,Yes,IT,Bangalore
+Shivay,918790977007,shivaynegi@gmail.com,69.0,IntelloLabs,40.0,Married,Female,1,Yes,IT,Mysore
+Pankaj,917838274033,pankaj29254@gmail.com,71.0,Intelex Systems,39.0,Married,Female,3,Yes,IT,Chennai
+Sudhir Palve,918097160023,sudhir_palve@hotmail.com,67.0,Sopra Steria,52.0,Married,Female,3,Yes,IT,Hyderabad
+pavani,917416614615,pavanithummoju14@gmail.com,87.0,Wipro,22.0,Single,Male,2,Yes,IT,Madurai
+Vijaya,919791785385,vijayasankar23@gmail.com,66.0,IBrand Solutions,32.0,Married,Female,4,Yes,IT,Madurai
+chandrakant,917042258161,chandrakantk37@gmail.com,65.0,Infosys,28.0,Single,Male,4,Yes,IT, Thiruvananthapuram
+Reema Dutta,918424013120,sen.reema@gmail.com,57.0,Team Embedded,42.0,Married,Female,3,Yes,IT,Madurai
+Kapil,919811595427,kapangelsonu@gmail.com,63.0,Cravaka Info Systems,48.0,Married,Female,3,Yes,IT, Thiruvananthapuram
+pavan,918939655858,pavankumarengg09@gmail.com,72.0,Brihaspathi TechnologiesMBR Informatics,48.0,Married,Female,3,Yes,IT,Mysore
+Pavan,917506931211,pavan.santhpale@gmail.com,63.0,Impecsoft Solutions,33.0,Married,Female,5,Yes,IT, Thiruvananthapuram
+Ramachandra,918497903399,ramachandra.reddyp@gmail.com,83.0,Accenture,28.0,Single,Male,3,Yes,IT,Chennai
+Vijay,919959739997,sekharvij@gmail.com,89.0,Deloitte,24.0,Single,Male,4,Yes,IT,Bangalore
+Avinash,919971427086,avi.aitm@gmail.com,69.0,Innvectra Softech,31.0,Married,Female,4,Yes,IT,Chennai
+Varun Poddar,919752302226,varunpoddar2727@gmail.com,65.0,Tech Mahindra,27.0,Single,Male,1,Yes,IT,Coimbatore
+Preeti,919701301957,preeti1987060@gmail.com,59.0,Yana Software Private LimitedOlympiasoft,42.0,Married,Female,2,Yes,IT,Chennai
+Ashutosh Mishra,919820944268,lethalgameise@gmail.com,73.0,Accenture,39.0,Single,Male,1,Yes,IT,Coimbatore
+Maulin Shah,919712136813,maulinshah1015@gmail.com,64.0,Techno Brain Ltd,36.0,Married,Female,4,Yes,IT,Mysore
+Drupad Bhatt,919742518883,bhattdrupad2016@gmail.com,87.0,Microsoft,23.0,Single,Male,4,Yes,IT,Madurai
+Srinivasa Reddy Kadiri,919620203717,ksreddy1141@gmail.com,31.0,Software Solutions,40.0,Married,Female,5,Yes,IT,Pondicherry
+Mukesh Kumar,917848988208,mukeshsah1989@gmail.com,6.0,Tech Mahindra,50.0,Single,Male,3,Yes,IT,Coimbatore
+Madhukar Kasarla,919705342843,madhukarkasarla@gmail.com,60.0,Microsoft,25.0,Single,Male,1,Yes,IT,Chennai
+Roumil Dhiman,919880222904,roumildhiman@gmail.com,11.0,IBM,22.0,Single,Male,3,Yes,IT,Pondicherry
+Selvan R,919884203018,visitselvan@gmail.com,57.0,HCL,26.0,Single,Male,2,Yes,IT,Mysore
+Aditya AVS,919940366496,avs.aditya@gmail.com,60.0,EON Technologies,52.0,Married,Female,5,Yes,IT,Pondicherry
+Arun Redhu,918375924460,arunkumarredhu@gmail.com,84.0,IBM,30.0,Single,Male,1,Yes,IT,Madurai
+Gautam Kumar,919818804171,gautamjha87@gmail.com,50.0,HCL,24.0,Single,Male,2,Yes,IT,Madurai
+Feerojkumar Pulahari,918790137130,feerojkumarp@gmail.com,56.0,Rapidsoft Technologies Pvt Ltd,41.0,Married,Female,5,Yes,IT, Thiruvananthapuram
+Sudhakar Rao Avisa,917032032547,avisesudhakarrao@gmail.com,87.0,Infosys,26.0,Single,Male,3,Yes,IT,Madurai
+Ashish Ghadge,919713071410,ashishghadge@gmail.com,2.0,Toshiba Software India Pvt ltd,39.0,Married,Female,1,Yes,IT,Madurai
+Ankit Kapur,918527241728,ankit.kapur91@gmail.com,74.0,Embassy IT Solutions,38.0,Married,Female,5,Yes,IT,kochi
+Santosh Kumar,919739771114,santzone@yahoo.com,54.0,Infosys,33.0,Single,Male,3,Yes,IT, Thiruvananthapuram
+Amit Saini,918368537089,amitvb.saini@gmail.com,77.0,Tech Mahindra,34.0,Married,Female,5,Yes,IT,Pondicherry
+Sandip Bhattacharyya,918970828132,in.sandip@hotmail.com,80.0,Tech Mahindra,28.0,Single,Male,5,Yes,IT,Chennai
+Paresh Salian,917738111796,paresh.404@gmail.com,70.0,VeServ,49.0,Married,Female,3,Yes,IT,Mysore
+Mounika Pathuria,9700101433,mounika.pathuri4@gmail.com,51.0,Genpact,31.0,Single,Male,4,Yes,IT,kochi
+Rajesh,919986134681,rajeshpanicker@yahoo.com,86.0,Google,27.0,Single,Male,4,Yes,IT,Madurai
+Surendar,917842244888,surendar007@yahoo.com,68.0,Eclature Technologies,46.0,Married,Female,1,Yes,IT,Bangalore
+Pooja Nagraj,918197422442,poojanagaraj1992@gmail.com,68.0,Tech Mahindra,23.0,Single,Male,2,Yes,IT,Hyderabad
+Abhay Shingi,919766933117,abhay.shingi@gmail.com,3.0,Harini Informatics,34.0,Married,Female,3,Yes,IT,Pondicherry
+Narasimhan,919841698399,narash_75@yahoo.co.uk,79.0,Info Edge Solutions,39.0,Married,Female,2,Yes,IT,Hyderabad
+Madhavi/Deepak,919441204184,raomadhavi67@gmail.com,58.0,Infosys,28.0,Single,Male,2,Yes,IT,Bangalore
+Hasan Zaidi,918805096469,akmalzaidi@gmail.com,85.0,TCS,26.0,Single,Male,3,Yes,IT,Mysore
+Sahil,919891609166,sahil.skoda@gmail.com,55.0,Hi Caliber IT Solutions,53.0,Married,Female,4,Yes,IT,Madurai
+Sadique Umar,919972587410,sadique.umar@gmail.com,82.0,Google,27.0,Single,Male,5,Yes,IT, Thiruvananthapuram
+Deepak Neema,919582004272,deepak.neema@gmail.com,76.0,Microsoft,39.0,Single,Male,4,Yes,IT, Thiruvananthapuram
+Hrishikesh Deshpande,919820241796,tohrishi@gmail.com,38.0,Amazon,26.0,Single,Male,3,Yes,IT,Coimbatore
+Amarendra Singh,919599532555,amar231982@gmail.com,1.0,Brio Technologies Private Limited,44.0,Married,Female,18,Yes,IT,Madurai
+Ravi Dhir,919718787942,er.dr.rd@gmail.com,68.0,I2Space Technologies,52.0,Married,Female,19,Yes,IT,Bangalore
+Pankaj Deshkar,919823177190,pankajdeshkar@yahoo.com,73.0,Jaro Education,37.0,Married,Female,13,Yes,IT,Mysore
+Surendra Rajaneni,919945190296,rajaneni.surendra@gmail.com,84.0,IBM,30.0,Single,Male,6,Yes,IT,Chennai
+RaviKumar Kothakota,919705231566,ravikumar.k425@gmail.com,82.0,CapGemini,25.0,Single,Male,8,Yes,IT,Pondicherry
+Chetan Mastmardi,918904538603,nmchetan@gmail.com,89.0,TCS,23.0,Single,Male,13,Yes,IT,kochi
+Abhishek Chauhan,919003760980,chauhanabhishek94@gmail.com,48.0,Omniscient IT Solutions Pvt Ltd,45.0,Married,Female,14,Yes,IT,Madurai
+Sajit Jose,919886243371,sajitjos@gmail.com,58.0,Esalemedia,43.0,Married,Female,16,Yes,IT,Hyderabad
+Srinivas Chawla,918897410100,srinivas.chawla@gmail.com,55.0,Askmeguru,36.0,Married,Female,15,Yes,IT,Madurai
+Murugavel Palanivelu,917200567758,pmurugavelraja@gmail.com,87.0,Wipro,28.0,Single,Male,11,Yes,IT,Hyderabad
+Namrata Saluja,919818642367,namrata_ahuja@yahoo.com,57.0,Wipro,30.0,Single,Male,17,Yes,IT,Coimbatore
+Ravindra Varma Bhupathiraju,919177588069,ravi_varmab@yahoo.com,62.0,Metacube Software Pvt. Ltd,42.0,Married,Female,15,Yes,IT,kochi
+Edwin Sundarraj,918754496847,edwinarun@rediffmail.com,63.0,Accuracy,51.0,Married,Female,12,Yes,IT,Chennai
+MD Mirza,918105553535,rizwanmirza447@gmail.com,89.0,Infosys,22.0,Single,Male,17,Yes,IT, Thiruvananthapuram
+Banhimitra Kundu,919535740510,kundu.banhimitra@gmail.com,76.0,Mindtree,32.0,Married,Female,16,Yes,IT,Coimbatore
+Madhura Patil,919869017657,madhura6233@gmail.com,55.0,Infosys,27.0,Single,Male,9,Yes,IT,Coimbatore
+Ravi Babu Chedarla,917019139417,ravibabuche@gmail.com,87.0,Accenture,23.0,Single,Male,6,Yes,IT,Coimbatore
+Saraswathy KR,919833835156,saraswathykrk@gmail.com,13.0,Genpact,35.0,Single,Male,17,Yes,IT,Chennai
+Akhilesh Kumar Ojha,918802486391,akowebd@gmail.com,53.0,TCS,52.0,Single,Male,7,Yes,IT, Thiruvananthapuram
+Dharani Ulaganathan,917259000515,udharani31@gmail.com,57.0,Amazon,54.0,Single,Male,18,Yes,IT,Coimbatore
+Sidhharta K,919948570501,rajsiddhu2004@gmail.com,70.0,IntelloLabs,40.0,Married,Female,8,Yes,IT,Mysore
+Althaf Pasupala,919912318084,althaf.oradba@gmail.com,88.0,Amazon,23.0,Single,Male,13,Yes,IT, Thiruvananthapuram
+Kumar Abhishek,919370966441,abhkuma7@gmail.com,71.0,Tech Mahindra,26.0,Single,Male,7,Yes,IT, Thiruvananthapuram
+Samiulla Makandar,919886923737,samiulla.sm@gmail.com,43.0,Intelex Systems,45.0,Married,Female,12,Yes,IT,Hyderabad
+Manivannan Kalyanasundaram,919731894124,conversewithmani@gmail.com,79.0,Sopra Steria,45.0,Married,Female,9,Yes,IT, Thiruvananthapuram
+Raja Srinivasan,919840244910,p.rajasrinivasan@gmail.com,85.0,CTS,29.0,Single,Male,8,Yes,IT,Chennai
+Gureddi Viswanatha Reddy,918147797022,viswanatha.gureddi@gmail.com,80.0,HCL,30.0,Single,Male,18,Yes,IT,Coimbatore
+Abhishek Dhumal,919741197978,abhishekdt8323@gmail.com,64.0,IBrand Solutions,48.0,Married,Female,7,Yes,IT, Thiruvananthapuram
+Paarijat Singh,919620700036,vicky_sin27@yahoo.in,74.0,Team Embedded,37.0,Married,Female,6,Yes,IT,Pondicherry
+Ashok Kumar Sankaran,919789955708,ash.peace.005@gmail.com,54.0,Deloitte,23.0,Single,Male,19,Yes,IT,Coimbatore
+Vinay Gupta,919999885239,vygupta@gmail.com,80.0,Google,27.0,Single,Male,14,Yes,IT,Hyderabad
+Vijay Jadhav,918308900413,viju13677@gmail.com,69.0,Deloitte,22.0,Single,Male,11,Yes,IT,Bangalore
+chandra srivastava,919322615460,cp.srivastava36@gmail.com,2.0,Cravaka Info Systems,54.0,Married,Female,10,Yes,IT,kochi
+Mutyalarao Chunchu,918008355553,mutyalu.mohita@gmail.com,71.0,Brihaspathi TechnologiesMBR Informatics,46.0,Married,Female,14,Yes,IT, Thiruvananthapuram
+Ravikant Khond,919552525659,ravikhond@gmail.com,31.0,CTS,30.0,Single,Male,10,Yes,IT, Thiruvananthapuram
+Supriya Pathuri,91918452912493,supriyapa2ri77@gmail.com,45.0,Impecsoft Solutions,54.0,Married,Female,9,Yes,IT,Mysore
+Piyush Sood,919650482500,piyush.sood143@gmail.com,67.0,Tech Mahindra,34.0,Single,Male,6,Yes,IT,Mysore
+Sateesh Kumar,919704239444,sateeshkumar.shri@gmail.com,66.0,Innvectra Softech,47.0,Married,Female,18,Yes,IT,kochi
+Liza Mohanty,918008533367,liza.mohanty01@gmail.com,79.0,Yana Software Private LimitedOlympiasoft,35.0,Married,Female,16,Yes,IT,Madurai
+PRASHANT Khadke,919730018080,prashantkhadke@gmail.com,54.0,Techno Brain Ltd,45.0,Married,Female,7,Yes,IT,Coimbatore
+Ankit Khatri,918879529444,ankitkhatri26mar@gmail.com,33.0,Software Solutions,38.0,Married,Female,17,Yes,IT,Bangalore
+Manish Pandey,919001061644,manishpandey1509@gmail.com,67.0,Deloitte,50.0,Single,Male,14,Yes,IT, Thiruvananthapuram
+Preethymol C S,917506426479,preethymolcs015@gmail.com,83.0,Accenture,24.0,Single,Male,7,Yes,IT,Coimbatore
+Parekh,9765989987,parekhravik@gmail.com,58.0,Microsoft,29.0,Single,Male,17,Yes,IT,Pondicherry
+Raghwendra Mishra,917892642941,raghwendra.mishra@gmail.com,64.0,HCL,22.0,Single,Male,15,Yes,IT,Pondicherry
+Ajay Gupta,919717775769,ajay.gupta.eaddress@gmail.com,55.0,EON Technologies,36.0,Married,Female,15,Yes,IT,Bangalore
+Rohit Negi,918077683563,rohitnegi548@gmail.com,53.0,Amazon,38.0,Single,Male,18,Yes,IT,Bangalore
+Nilanjan Mitra,918123614070,nmitra16@yahoo.com,73.0,Rapidsoft Technologies Pvt Ltd,47.0,Married,Female,7,Yes,IT,Pondicherry
+Amit Chauhan,917835975775,amit.9333@yahoo.com,57.0,Microsoft,33.0,Single,Male,8,Yes,IT,Pondicherry
+Dhaval Parikh,919844590737,dhp6106@gmail.com,59.0,IBM,39.0,Single,Male,7,Yes,IT,Madurai
+Abhishek Ghosh,919985677334,abhishekmou@gmail.com,55.0,Deloitte,39.0,Single,Male,11,Yes,IT,Madurai
+Azeem Abdul,918978042786,azeem90.abdul@gmail.com,46.0,Toshiba Software India Pvt ltd,50.0,Married,Female,6,Yes,IT, Thiruvananthapuram
+Alosious Pauline Irudayaraj,919840563262,alosious@gmail.com,77.0,Embassy IT Solutions,41.0,Married,Female,16,Yes,IT,Bangalore
+Sunil Raidurgam Raidurgam,919945325088,sunilrv.mvit@gmail.com,56.0,Infosys,25.0,Single,Male,17,Yes,IT, Thiruvananthapuram
+Pandurang Argade,919819520905,argadep@gmail.com,79.0,TCS,44.0,Single,Male,18,Yes,IT, Thiruvananthapuram
+Rajanikanth Konini,919886777506,rajanikanthrao@gmail.com,85.0,Wipro,26.0,Single,Male,10,Yes,IT,Mysore
+Kiran Amur,919986017064,kiran.amur@gmail.com,81.0,Deloitte,28.0,Single,Male,17,Yes,IT,kochi
+Vishnu Dattu,919676807316,vishnu.dattu530@gmail.com,88.0,Deloitte,25.0,Single,Male,12,Yes,IT, Thiruvananthapuram
+Deepak Sharma,919884071407,dsharmamca@gmail.com,58.0,Tech Mahindra,32.0,Married,Female,7,Yes,IT,Pondicherry
+Rakesh Kava,917093032007,rakesh.kava@gmail.com,66.0,VeServ,45.0,Married,Female,8,Yes,IT,Bangalore
+Rohit Deshmukh,919561101192,rvdeshmukh1890@gmail.com,80.0,Amazon,26.0,Single,Male,17,Yes,IT,kochi
+Sadanandam Pitta,919849011500,anandalways@gmail.com,73.0,Eclature Technologies,47.0,Married,Female,18,Yes,IT,Pondicherry
+Udit Dikshit,919711813775,uditdixit11@gmail.com,77.0,Harini Informatics,32.0,Married,Female,6,Yes,IT,Hyderabad
+Ajaypranav CG,917358526460,ajaypranav1190@gmail.com,79.0,Amazon,27.0,Single,Male,6,Yes,IT,Madurai
+Sakshi Gupta,917238064690,sakshigupta7693@gmail.com,86.0,HCL,28.0,Single,Male,9,Yes,IT,Mysore
+Ankush,918605110351,ankush.khare87@gmail.com,82.0,CapGemini,24.0,Single,Male,14,Yes,IT,Madurai
+Ashu,919740199806,sehgal.ashu@gmail.com,50.0,IBM,22.0,Single,Male,7,Yes,IT,Coimbatore
+Ramesh,919003155598,ramesh.chenniappan@gmail.com,83.0,Amazon,27.0,Single,Male,17,Yes,IT, Thiruvananthapuram
+GAURANG KUMAR,917738346494,gaurangparekh2@gmail.com,58.0,Google,26.0,Single,Male,14,Yes,IT,Pondicherry
+Monika,919822083392,monika.kate156@gmail.com,39.0,Info Edge Solutions,48.0,Married,Female,9,Yes,IT,Pondicherry
+Sartaj,919990146638,sartajalam.ipu@gmail.com,84.0,Google,26.0,Single,Male,11,Yes,IT,Mysore
+DURGESH,919818502631,mdurgesh@hotmail.com,73.0,Hi Caliber IT Solutions,41.0,Married,Female,18,Yes,IT,Chennai
+Pulkit,918800946611,pulkit632@gmail.com,56.0,Brio Technologies Private Limited,47.0,Married,Female,16,Yes,IT,Pondicherry
+Rohit,918860543656,kakkar.rohit@gmail.com,55.0,I2Space Technologies,43.0,Married,Female,19,Yes,IT,kochi
+Anuradha,918939905231,anursubbu@gmail.com,85.0,Microsoft,28.0,Single,Male,16,Yes,IT,Coimbatore
+Alok Yadav,919866195400,alok0077@gmail.com,28.0,Wipro,45.0,Single,Male,8,Yes,IT, Thiruvananthapuram
+Angelus,919886657821,angelusphil@yahoo.com,76.0,IBM,33.0,Single,Male,16,Yes,IT,kochi
+Manish,919910489152,manish.gwl@gmail.com,52.0,CapGemini,31.0,Single,Male,9,Yes,IT, Thiruvananthapuram
+Madhusudanan,919840105879,madhu.s31@gmail.com,84.0,Wipro,29.0,Single,Male,14,Yes,IT,Chennai
+Saravanan,919841820666,krishsarava@gmail.com,54.0,Jaro Education,53.0,Married,Female,9,Yes,IT,Bangalore
+Shruthi M N,917395968949,shruthi7293@gmail.com,69.0,Omniscient IT Solutions Pvt Ltd,41.0,Married,Female,8,Yes,IT,Bangalore
+Lakshmi Suvarchala,919032303993,suvarchalasarva94@gmail.com,77.0,Esalemedia,49.0,Married,Female,15,Yes,IT,Hyderabad
+Akshatha,919731523388,ahtahska@gmail.com,83.0,Wipro,23.0,Single,Male,19,Yes,IT,Pondicherry
+Ashis panigrahi,918208660715,ashis.panigrahi86@gmail.com,81.0,CTS,27.0,Single,Male,11,Yes,IT,Bangalore
+Lava Kumar,917702919991,lavakumar.dukanam@gmail.com,21.0,Askmeguru,45.0,Married,Female,16,Yes,IT,Coimbatore
+Padra Binda,918750717801,padarabindam@gmail.com,88.0,IBM,30.0,Single,Male,8,Yes,IT, Thiruvananthapuram
+Sheifali,917358563080,sheifali2@gmail.com,42.0,Accenture,29.0,Single,Male,18,Yes,IT,Pondicherry
+Naveen,919008045004,navneetpkl@hotmail.com,86.0,Microsoft,27.0,Single,Male,9,Yes,IT,Bangalore
+Harika,919700169712,twitty.reddy@gmail.com,78.0,Metacube Software Pvt. Ltd,38.0,Married,Female,11,Yes,IT, Thiruvananthapuram
+Nitin Verma,919555317670,vermanitin091@gmail.com,67.0,Accuracy,52.0,Married,Female,9,Yes,IT,Coimbatore
+Vivek,917666125890,vivek.pervi@gmail.com,52.0,Mindtree,52.0,Married,Female,14,Yes,IT,Madurai
+SaravanaBalaji,919003210101,bala4555@gmail.com,53.0,Deloitte,30.0,Single,Male,19,Yes,IT,Madurai
+Siddharth,919920613232,sidd.band@yahoo.co.in,70.0,Deloitte,34.0,Single,Male,12,Yes,IT, Thiruvananthapuram
+Santosh Kumar.T,919500186717,tsk_thiagu@rocketmail.com,17.0,Microsoft,45.0,Single,Male,16,Yes,IT,Mysore
+Amarnath Reddy,918978855222,amar.d.reddy@outlook.com,64.0,IntelloLabs,39.0,Married,Female,17,Yes,IT,Mysore
+RanjithKumar,917550221294,drkumaar2003@gmail.com,62.0,Intelex Systems,52.0,Married,Female,14,Yes,IT,Mysore
+Anil,918588897708,anilkumar.mator@gmail.com,79.0,Sopra Steria,33.0,Married,Female,14,Yes,IT, Thiruvananthapuram
+Vinod,919845484462,svharivinod@gmail.com,88.0,Microsoft,26.0,Single,Male,19,Yes,IT,Hyderabad
+Pradeep,919989017065,pradeep_borra@yahoo.com,7.0,Wipro,29.0,Single,Male,11,Yes,IT,kochi
+Sandipan,919886742194,sandipan.on.www@gmail.com,59.0,IBrand Solutions,45.0,Married,Female,13,Yes,IT,Madurai
+Shrikhar,918506044456,shrikarkondepudi@gmail.com,69.0,Team Embedded,48.0,Married,Female,12,Yes,IT,Bangalore
+Mitesh,919819470868,miteshshah2581987@gmail.com,65.0,Cravaka Info Systems,33.0,Married,Female,10,Yes,IT,Hyderabad
+Surekha,917259932457,surekha.basina@gmail.com,50.0,Brihaspathi TechnologiesMBR Informatics,43.0,Married,Female,17,Yes,IT,Coimbatore
+Rupashri S,919820635378,rupashri1992@gmail.com,81.0,Infosys,27.0,Single,Male,19,Yes,IT,Hyderabad
+Madhura,919619018081,madhura.barve92@gmail.com,58.0,Tech Mahindra,25.0,Single,Male,17,Yes,IT,Bangalore
+Utkarsh,917769985544,utkarsh1977@gmail.com,73.0,Impecsoft Solutions,44.0,Married,Female,6,Yes,IT,Bangalore
+Srividya,919849366832,shrividya18@gmail.com,75.0,Innvectra Softech,41.0,Married,Female,15,Yes,IT,Coimbatore
+Veeranjaneyulu,918951161121,veera.tslm@gmail.com,89.0,Tech Mahindra,23.0,Single,Male,19,Yes,IT,kochi
+Varun,919811331488,visrun@gmail.com,52.0,Deloitte,25.0,Single,Male,14,Yes,IT,Mysore
+Kavita,918884828365,kavita.kusagur@yahoo.com,57.0,Yana Software Private LimitedOlympiasoft,32.0,Married,Female,17,Yes,IT, Thiruvananthapuram
+Lalit,91 9873939185,taneja.lalit@gmail.com,84.0,CapGemini,22.0,Single,Male,12,Yes,IT,Pondicherry
+Sanjiv,919819505726,sanjiv.k.p@gmail.com,39.0,CapGemini,28.0,Single,Male,7,Yes,IT,Mysore
+Brijesh,919650789107,brijesh97101@gmail.com,73.0,Techno Brain Ltd,43.0,Married,Female,6,Yes,IT,Mysore
+kiran,919686789514,kiran.kampli@gmail.com,52.0,Infosys,41.0,Single,Male,13,Yes,IT,Bangalore
+Praveenkumar,919004200693,praveenkumarinspiron@gmail.com,86.0,IBM,22.0,Single,Male,18,Yes,IT,Pondicherry
+Rajusekhar,918805736444,sekhar.alle@gmail.com,59.0,CapGemini,29.0,Single,Male,15,Yes,IT,Bangalore
+Yogesh,919225320062,yogesh.khanzode@gmail.com,64.0,Software Solutions,38.0,Married,Female,16,Yes,IT,Mysore
+Foram,918600749474,foramkeniya3@gmail.com,83.0,Deloitte,28.0,Single,Male,15,Yes,IT,Coimbatore
+Sangavi,919940089776,sangavi.v.p@gmail.com,83.0,Tech Mahindra,24.0,Single,Male,14,Yes,IT,Mysore
+Vaidya,919382276143,pvaidyanathan@gmail.com,79.0,EON Technologies,51.0,Married,Female,17,Yes,IT,Mysore
+Anant,917350123045,agj75v6@gmail.com,88.0,Google,25.0,Single,Male,11,Yes,IT,kochi
+Aditya,919819983839,er.adityakapoor@gmail.com,86.0,TCS,29.0,Single,Male,19,Yes,IT,Hyderabad
+Hanu,918879733279,mishra.hanu@gmail.com,44.0,Accenture,28.0,Single,Male,11,Yes,IT,Coimbatore
+Nagaraj,919886967962,nagarajnms@gmail.com,89.0,Wipro,25.0,Single,Male,13,Yes,IT, Thiruvananthapuram
+Rohit,918884096777,rohitkotal@gmail.com,67.0,Rapidsoft Technologies Pvt Ltd,53.0,Married,Female,18,Yes,IT,Coimbatore
+P V Mohan Rao,919885000023,heismohan@gmail.com,86.0,Tech Mahindra,24.0,Single,Male,8,Yes,IT,kochi
+Kranthi,919703319600,assnarayanam@gmail.com,11.0,HCL,48.0,Single,Male,16,Yes,IT,Mysore
+Yuva Prudhvi,919492776048,myuva.589@gmail.com,84.0,Genpact,25.0,Single,Male,11,Yes,DataBase,Chennai
+Kalaiarasan,919886497709,gkalaiarasan@gmail.com,81.0,Tech Mahindra,24.0,Single,Male,19,Yes,DataBase,Madurai
+Rinku,919916096535,rsahapuja@gmail.com,82.0,Accenture,22.0,Single,Male,18,Yes,DataBase,Pondicherry
+Priyanka Bawa,919873168905,amit.nsit.mpa@gmail.com,84.0,Wipro,24.0,Single,Male,18,Yes,DataBase,Madurai
+Rohan,919423892525,rohan0751@gmail.com,82.0,Tech Mahindra,25.0,Single,Male,14,Yes,DataBase,Chennai
+Lokesh,918019396999,lokesh.agarwal@live.in,73.0,Toshiba Software India Pvt ltd,53.0,Married,Female,17,Yes,DataBase, Thiruvananthapuram
+APPARAO,919731901980,appu.rongala@gmail.com,6.0,Tech Mahindra,24.0,Single,Male,10,Yes,DataBase,Coimbatore
+Saumin,918971186689,sauminkotadia@yahoo.com,53.0,Embassy IT Solutions,36.0,Married,Female,11,Yes,DataBase,Bangalore
+Vikas,919975580444,vikasskadam@gmail.com,57.0,Tech Mahindra,39.0,Married,Female,9,Yes,DataBase,Coimbatore
+Sathish,919892477388,sathishkolli@gmail.com,72.0,VeServ,36.0,Married,Female,15,Yes,DataBase,Madurai
+Rebba,919606334455,rebba@mail.com,52.0,Microsoft,25.0,Single,Male,7,Yes,DataBase,Mysore
+Kamal,919811998796,upa_kamal@rediffmail.com,64.0,Eclature Technologies,32.0,Married,Female,19,Yes,DataBase,kochi
+Lokesh,918867349849,lokesh.medasani@gmail.com,79.0,Harini Informatics,49.0,Married,Female,11,Yes,DataBase,Pondicherry
+Ankit,919958006055,ankit1186@gmail.com,52.0,Info Edge Solutions,33.0,Married,Female,7,Yes,DataBase,Pondicherry
+Arti,918130430721,arti.taneja@gmail.com,88.0,Amazon,27.0,Single,Male,8,Yes,DataBase,Bangalore
+Prabhakar,919740989852,pvarkala@gmail.com,70.0,Hi Caliber IT Solutions,36.0,Married,Female,13,Yes,DataBase,Pondicherry
+Nikhil,917767902444,nkumar.dsi@gmail.com,61.0,Brio Technologies Private Limited,47.0,Married,Female,11,Yes,DataBase,Mysore
+Gowthampallekonda,918197396798,palleo123@gmail.com,50.0,I2Space Technologies,45.0,Married,Female,7,Yes,DataBase,Madurai
+Deepak Kapri,919990024887,kaprideepak1990@gmail.com,78.0,Amazon,52.0,Single,Male,9,Yes,DataBase,Chennai
+Sai Surekha,919892762196,saisurekhajavalkar28@gmail.com,79.0,Jaro Education,35.0,Married,Female,8,Yes,DataBase,Coimbatore
+Deepthi,919154884035,deepthi.yel@gmail.com,60.0,Omniscient IT Solutions Pvt Ltd,54.0,Married,Female,8,Yes,DataBase,kochi
+Setu,919624879118,mokshmodi@gmail.com,89.0,Google,23.0,Single,Male,16,Yes,DataBase,Bangalore
+Shubham,919713169651,shubhamjain.acts@gmail.com,77.0,Google,45.0,Single,Male,15,Yes,DataBase,Pondicherry
+Satish,917204008147,ccsattish@gmail.com,72.0,Esalemedia,36.0,Married,Female,9,Yes,DataBase,Coimbatore
+SHIVA,919449209449,tamminedi.shiva@gmail.com,87.0,Accenture,27.0,Single,Male,16,Yes,DataBase,Madurai
+VAMSHI KRISHNA,918050976149,vamshi32@gmail.com,82.0,Genpact,30.0,Single,Male,12,Yes,DataBase,Bangalore
+Siddhartha,918486151634,dgensiddhartha@gmail.com,14.0,CTS,52.0,Single,Male,18,Yes,DataBase,Hyderabad
+Ram,919986038735,rammohan.ravi@gmail.com,82.0,Tech Mahindra,22.0,Single,Male,19,Yes,DataBase,Madurai
+Mukesh,919717094762,mmishra.it.india@gmail.com,61.0,Askmeguru,33.0,Married,Female,13,Yes,DataBase,Bangalore
+Pranay,919768052444,mail2pranayy@gmail.com,58.0,CapGemini,45.0,Single,Male,14,Yes,DataBase,Bangalore
+Joydeep,918886855541,jedee_d@yahoo.com,82.0,Amazon,22.0,Single,Male,12,Yes,DataBase,kochi
+Viswa,919949967745,m.viswateja@gmail.com,53.0,Metacube Software Pvt. Ltd,47.0,Married,Female,16,Yes,DataBase,Coimbatore
+Nayna,919844341500,naynagoyal89@gmail.com,58.0,Accuracy,50.0,Married,Female,16,Yes,DataBase,kochi
+Satishkumar,918187875397,satishalapati502@gmail.com,74.0,Mindtree,33.0,Married,Female,8,Yes,DataBase,Coimbatore
+Kapil Aggarwal,919967102312,kapil2312@gmail.com,69.0,IntelloLabs,37.0,Married,Female,8,Yes,DataBase,Coimbatore
+Kuntol Banerjee,919168384200,kuntolb@gmail.com,66.0,Intelex Systems,43.0,Married,Female,18,Yes,DataBase,Mysore
+Aditya Gopaldas Pawan,919632314440,gpaditya11@gmail.com,62.0,Sopra Steria,34.0,Married,Female,19,Yes,DataBase,kochi
+ASIF Bhat,919637581728,asifbhat222@gmail.com,58.0,IBrand Solutions,43.0,Married,Female,9,Yes,DataBase,Mysore
+Venkata sri rama prasad Mummidivarapu,919676929233,prasad.mvsr@gmail.com,89.0,Amazon,25.0,Single,Male,13,Yes,DataBase, Thiruvananthapuram
+Srinivasa Murthy,919844474573,murthsrinivas@gmail.com,25.0,Deloitte,26.0,Single,Male,6,Yes,DataBase,Chennai
+Guru,919703378123,guru.dornadula@gmail.com,51.0,Genpact,28.0,Single,Male,15,Yes,DataBase,Mysore
+Karun,918929757497,karunsharma247@gmail.com,80.0,Amazon,27.0,Single,Male,19,Yes,DataBase,kochi
+Elliot Desouza,918655772224,elliot.desouza@siemens.com,60.0,Team Embedded,32.0,Married,Female,15,Yes,DataBase,Chennai
+Prem RANJAN,919380510886,premranjan81@gmail.com,69.0,Deloitte,24.0,Single,Male,7,Yes,DataBase,Coimbatore
+Amareswarsahu sahu,919867858109,amareswar.sahu@gmail.com,14.0,Tech Mahindra,50.0,Single,Male,13,Yes,DataBase,Pondicherry
+Narender Kumar,918511170250,snk6265@gmail.com,81.0,Genpact,24.0,Single,Male,11,Yes,DataBase, Thiruvananthapuram
+Rupesh Kempanna,919845541744,rkempann@gmail.com,64.0,Cravaka Info Systems,44.0,Married,Female,7,Yes,DataBase,Hyderabad
+Shaibeer Singh Yadav,918826155821,sbysit20082012@gmail.com,68.0,Genpact,27.0,Single,Male,16,Yes,DataBase,Hyderabad
+Deepa,919663033104,deedjv@gmail.com,31.0,TCS,39.0,Single,Male,8,Yes,DataBase,Coimbatore
+Nabanita Sarkar,919108828728,nbntsrkr@gmail.com,75.0,HCL,49.0,Single,Male,15,Yes,DataBase,Pondicherry
+Sunitha Sharma,919986719625,sunitha191982@gmail.com,73.0,Brihaspathi TechnologiesMBR Informatics,34.0,Married,Female,10,Yes,DataBase,Mysore
+Neethu Shree,919880649715,shree_nee82@yahoo.com,70.0,Impecsoft Solutions,52.0,Married,Female,17,Yes,DataBase,Bangalore
+Mayur Shrotriya,919881014099,mayurshrotriya@yahoo.com,68.0,Innvectra Softech,31.0,Married,Female,13,Yes,DataBase,Chennai
+Ramakrishna Nimmathota,919052591880,nimmathotaramakrishna@gmail.com,88.0,Tech Mahindra,26.0,Single,Male,17,Yes,DataBase,Hyderabad
+AJAY,919160605002,ajay.m8020@gmail.com,59.0,Wipro,29.0,Single,Male,17,Yes,DataBase,Chennai
+Anupama Choudhary,917503614261,anupamabit2k4@gmail.com,59.0,Yana Software Private LimitedOlympiasoft,42.0,Married,Female,11,Yes,DataBase,kochi
+Vaibhav,919959008470,rajvrs85@gmail.com,82.0,CTS,23.0,Single,Male,13,Yes,DataBase,Bangalore
+Parag Deo,917709613010,paragdeo1987@gmail.com,70.0,Techno Brain Ltd,39.0,Married,Female,18,Yes,DataBase,Hyderabad
+Pruthvi Shankar,919900023600,pruthvi.shankar1121@gmail.com,28.0,Software Solutions,39.0,Married,Female,17,Yes,DataBase,Pondicherry
+Aastha Bhatt,917827338995,bhattaastha062@gmail.com,74.0,EON Technologies,44.0,Married,Female,14,Yes,DataBase,Coimbatore
+Sandip,919886141824,sandip.kumarmondal@gmail.com,77.0,Tech Mahindra,54.0,Single,Male,8,Yes,DataBase,Coimbatore
+Praveen KVD,919886079479,kvdpraveen@gmail.com,56.0,Rapidsoft Technologies Pvt Ltd,33.0,Married,Female,8,Yes,DataBase,Madurai
+Rohit,918408951853,rohitchouhan1119@gmail.com,89.0,CapGemini,30.0,Single,Male,11,Yes,DataBase,Coimbatore
+Anmol Arya,918800498226,anmolarya01@gmail.com,80.0,Infosys,25.0,Single,Male,17,Yes,DataBase,Pondicherry
+Kalpana Parcha,919654150151,online.kalpana@gmail.com,24.0,Infosys,29.0,Single,Male,6,Yes,DataBase,Coimbatore
+Manjit Sahni,919560695245,manjitsinghsahni@gmail.com,62.0,Toshiba Software India Pvt ltd,35.0,Married,Female,14,Yes,DataBase, Thiruvananthapuram
+Sourav Kanjilal,919476475995,kanji.griffin@gmail.com,62.0,HCL,26.0,Single,Male,19,Yes,DataBase, Thiruvananthapuram
+Vamsi Vuyyuru,919959758453,vuyyuruvamcy@gmail.com,80.0,Tech Mahindra,29.0,Single,Male,10,Yes,DataBase,Bangalore
+Amber Jain,917987279488,amberjain.iet@gmail.com,73.0,Amazon,30.0,Single,Male,10,Yes,DataBase,Coimbatore
+Biswajit Pattanaik,919885219721,pattanaik.biswajit@gmail.com,89.0,Infosys,24.0,Single,Male,19,Yes,DataBase,Mysore
+Shalini BARDHAN,919886310386,shalinibardhan93@gmail.com,52.0,Embassy IT Solutions,46.0,Married,Female,6,Yes,DataBase,Pondicherry
+Shivram Parijatam,918983003276,d.parijatam@gmail.com,86.0,IBM,22.0,Single,Male,15,Yes,DataBase,Pondicherry
+Ajay Ghanta,918861472225,gajay92@gmail.com,50.0,Tech Mahindra,36.0,Married,Female,9,Yes,DataBase,Madurai
+Rama Krishna Yerroju,919100953162,yrkrsna@gmail.com,48.0,Accenture,49.0,Single,Male,15,Yes,DataBase, Thiruvananthapuram
+Satya Nara,919849990040,satya.mandalika@gmail.com,52.0,Genpact,43.0,Single,Male,14,Yes,DataBase, Thiruvananthapuram
+Lalit Mohan Joshi,919599580358,lalitmohanjoshi1989@gmail.com,63.0,VeServ,54.0,Married,Female,13,Yes,DataBase,Madurai
+Mathangi Shankar,919834124024,shankar.mathangi@gmail.com,82.0,TCS,26.0,Single,Male,8,Yes,DataBase,Mysore
+Sahithi yannam,917032808712,ysahithi81@gmail.com,69.0,Eclature Technologies,35.0,Married,Female,17,Yes,DataBase,Chennai
+Venkat Ramana Prasad,919908114597,prasad.garinapally@gmail.com,55.0,Harini Informatics,39.0,Married,Female,9,Yes,DataBase,Hyderabad
+Neeraj,919049485495,kumarneeraj2006@gmail.com,87.0,Tech Mahindra,26.0,Single,Male,10,Yes,DataBase, Thiruvananthapuram
+Madhavi,918105726262,raman.madhavi@gmail.com,65.0,IBM,26.0,Single,Male,19,Yes,DataBase,kochi
+Abhishek,918105099445,a.biradar@gmail.com,83.0,Wipro,24.0,Single,Male,7,Yes,DataBase,Mysore
+Saakshi Jiandani,919930402283,saakshi.jiandani@gmail.com,61.0,Genpact,38.0,Single,Male,18,Yes,DataBase,Pondicherry
+Pankaj Yadav,917019789976,pankaj.yadhav90@gmail.com,80.0,TCS,30.0,Single,Male,13,Yes,DataBase,kochi
+Prasad Vichare,918291628988,prasadvichare0812@gmail.com,10.0,Info Edge Solutions,38.0,Married,Female,14,Yes,DataBase,Hyderabad
+AMIT Mathur,919999919523,jolly.mathur@gmail.com,81.0,Infosys,26.0,Single,Male,12,Yes,DataBase,Pondicherry
+Aditi Malik,919008757728,malikaditi12@gmail.com,61.0,Hi Caliber IT Solutions,38.0,Married,Female,15,Yes,DataBase, Thiruvananthapuram
+Karunakar Burugu,918897689846,karunakar5569@gmail.com,14.0,Brio Technologies Private Limited,34.0,Married,Female,12,Yes,DataBase,kochi
+Vishal Jain,919632976700,meetvishaljain@gmail.com,58.0,I2Space Technologies,43.0,Married,Female,16,Yes,DataBase,Madurai
+Hitesh Joshi,918800281054,hjofficetimes@gmail.com,79.0,Jaro Education,40.0,Married,Female,18,Yes,DataBase,kochi
+Prabhat,919880267638,prabhatv@gmail.com,71.0,Omniscient IT Solutions Pvt Ltd,33.0,Married,Female,6,Yes,DataBase,Chennai
+Dunesh Prasad,919448447747,hvdineshprasad@gmail.com,83.0,Microsoft,23.0,Single,Male,10,Yes,DataBase,Mysore
+MADHU SUDHAN REDDY NARAPUREDDY,918095983066,madhusr433@gmail.com,77.0,Esalemedia,34.0,Married,Female,13,Yes,DataBase,Bangalore
+Vamsi,919620666769,vamsi.scvk@gmail.com,63.0,Askmeguru,33.0,Married,Female,13,Yes,DataBase,Pondicherry
+Mahesh,919449431071,mahiec100@gmail.com,84.0,Accenture,25.0,Single,Male,8,Yes,DataBase,Pondicherry
+Arvind Vijayakumar,919972709565,arvindv86@gmail.com,84.0,Microsoft,23.0,Single,Male,6,Yes,DataBase,Bangalore
+Sunil S,918722122108,sunils3vc416@gmail.com,62.0,Metacube Software Pvt. Ltd,53.0,Married,Female,14,Yes,DataBase,Coimbatore
+Rahul Kumar,919686977744,rahul.chotu@gmail.com,57.0,Accuracy,35.0,Married,Female,12,Yes,DataBase,Madurai
+Venkatesh Bachu,919963892252,venkatesh.bachu2008@gmail.com,15.0,Mindtree,46.0,Married,Female,6,Yes,DataBase,Pondicherry
+Nithin CHANDUPATLA,919100940552,nithin_reddy86@yahoo.com,77.0,TCS,26.0,Single,Male,14,Yes,DataBase,Hyderabad
+Sateeshkumar Ambesange,919741007422,sateesh.ambesange@gmail.com,59.0,IntelloLabs,31.0,Married,Female,8,Yes,DataBase,Chennai
+Venkatesh Gurap,919745579391,venkatc11@outlook.com,72.0,HCL,30.0,Single,Male,12,Yes,DataBase,Mysore
+Roopa,919945370881,roopa.nraj@gmail.com,57.0,Intelex Systems,36.0,Married,Female,8,Yes,DataBase,Coimbatore
+Bhaskar Bharat,917044093003,bhaskar.bharat92@gmail.com,50.0,Sopra Steria,41.0,Married,Female,17,Yes,DataBase,Bangalore
+Prabeethsoy Nair,919632018811,prabeethkitty@gmail.com,77.0,CTS,42.0,Single,Male,12,Yes,DataBase,Bangalore
+Vrushali Kulkarni,919920654449,vrushali.godbole@gmail.com,81.0,IBM,23.0,Single,Male,7,Yes,DataBase,Coimbatore
+Shivam Saxena,919935706999,shivamsaxena4u@gmail.com,89.0,Deloitte,27.0,Single,Male,11,Yes,DataBase,Madurai
+Prakash Injnani,919762571271,pinjnani25@gmail.com,18.0,Microsoft,40.0,Single,Male,18,Yes,DataBase,Pondicherry
+Sachin Kumar,917382797236,g_sachinkumar3@yahoo.co.in,50.0,IBrand Solutions,36.0,Married,Female,8,Yes,DataBase,Madurai
+Bhargavi U Uppuluri,918197639674,bhargaviun05@gmail.com,50.0,Amazon,30.0,Single,Male,11,Yes,DataBase,Hyderabad
+Vignesh Ravichandran,919962328464,sviki38@gmail.com,79.0,Accenture,39.0,Single,Male,10,Yes,DataBase,kochi
+Koti Perumalla,919866076890,koti62@gmail.com,29.0,Team Embedded,38.0,Married,Female,19,Yes,DataBase,Coimbatore
+Manjunath K,919916555104,kmanjunath29@gmail.com,52.0,CTS,26.0,Single,Male,9,Yes,DataBase,Pondicherry
+Shakif Rauf,919867034304,shakifshakif@gmail.com,68.0,IBM,28.0,Single,Male,14,Yes,DataBase,kochi
+Nitin panaskar,918108322234,nitinpanaskar@gmail.com,78.0,Wipro,29.0,Single,Male,15,Yes,DataBase,Mysore
+Abhishek Nair,918790113169,abhin1587@gmail.com,66.0,CTS,24.0,Single,Male,19,Yes,DataBase,Chennai
+Ankit,918088652718,ankitstartdatascience@gmail.com,74.0,Cravaka Info Systems,43.0,Married,Female,15,Yes,DataBase,Bangalore
+Habeebuddin,919010653191,habeebatmj@hotmail.com,85.0,HCL,25.0,Single,Male,18,Yes,DataBase,Pondicherry
+Ravindra banwari,919405609923,ravindra.banwari@gmail.com,81.0,Accenture,29.0,Single,Male,17,Yes,DataBase,Bangalore
+Santosh Dogra,919820020623,santosh.dogra@gmail.com,82.0,Infosys,25.0,Single,Male,16,Yes,DataBase, Thiruvananthapuram
+Naveen Nanjappasetty,919739784323,naveen.acheanz@gmail.com,88.0,Wipro,26.0,Single,Male,19,Yes,DataBase, Thiruvananthapuram
+Himani Sonwane,919503729579,himanisonwane99@gmail.com,62.0,Tech Mahindra,23.0,Single,Male,6,Yes,DataBase,kochi
+Vikram Kapoor,919990093947,kapoorvikram04@gmail.com,76.0,Deloitte,35.0,Single,Male,15,Yes,DataBase,Madurai
+Srinivas Nanduri,919676007199,anand.srinivas1@gmail.com,62.0,Brihaspathi TechnologiesMBR Informatics,33.0,Married,Female,10,Yes,DataBase,Madurai
+Srujana,917337062854,srujana.v67@gmail.com,75.0,Impecsoft Solutions,46.0,Married,Female,3,Yes,DataBase,kochi
+Pramod Kumar,919985504343,pramodnayakoti@gmail.com,67.0,Innvectra Softech,32.0,Married,Female,5,Yes,DataBase,Coimbatore
+Karthik Puram,919985483296,karthik.puram@outlook.com,68.0,Yana Software Private LimitedOlympiasoft,32.0,Married,Female,1,Yes,DataBase,Chennai
+Bidhulata Sahu,919448427359,bsahu999@gmail.com,85.0,Deloitte,24.0,Single,Male,2,Yes,DataBase,Pondicherry
+Sumeet kumar Padhi,918095448763,sumeetpadhi2008@gmail.com,74.0,Techno Brain Ltd,44.0,Married,Female,6,Yes,DataBase,Chennai
+Abhishek Tirpude,919691579182,abhi.vnit2009@gmail.com,51.0,Software Solutions,45.0,Married,Female,2,Yes,DataBase,Mysore
+Bhanupriya Perumal,918220753530,bhanupriya_p@ymail.com,71.0,Google,28.0,Single,Male,6,Yes,DataBase,Bangalore
+Avinash Bhalge,919028532767,dev.avi85@gmail.com,84.0,TCS,26.0,Single,Male,4,Yes,DataBase,Pondicherry
+Pankaj Mishra,918377868647,pankaj@etrmservices.com,75.0,IBM,33.0,Single,Male,6,Yes,DataBase,Madurai
+Sawan Gupta,919313532642,saw1_g@yahoo.co.in,74.0,EON Technologies,36.0,Married,Female,2,Yes,DataBase,Hyderabad
+Akshit Baluja,919818674433,akx13_baluja@hotmail.com,72.0,Rapidsoft Technologies Pvt Ltd,49.0,Married,Female,5,Yes,Other,Madurai
+Sheelu Chauhan,918285476404,siyachauhan09@gmail.com,69.0,Toshiba Software India Pvt ltd,40.0,Married,Female,2,Yes,Other,Hyderabad
+Sivaprasad,919030527071,sivaprasad.kancharla@gmail.com,75.0,Embassy IT Solutions,50.0,Married,Female,2,Yes,Other,kochi
+Chaitanya Kumar Kakaraparthy,918904202192,chaitu451@gmail.com,65.0,CapGemini,49.0,Single,Male,1,Yes,Other,Bangalore
+Aaditya,919178721399,aaditya.anand02@gmail.com,62.0,Tech Mahindra,31.0,Married,Female,1,Yes,Other,Madurai
+Sabyasachi,918274850798,sabyasachimech2007@gmail.com,81.0,IBM,22.0,Single,Male,1,Yes,Other,Coimbatore
+Sreemanth Chekka,919603219333,sreemanth@gmail.com,35.0,VeServ,37.0,Married,Female,3,Yes,Other,kochi
+Harish,919790449734,hharishh86@gmail.com,85.0,Microsoft,28.0,Single,Male,5,Yes,Other,Chennai
+Sriranjani,919963762627,sriranjani.p@gmail.com,57.0,TCS,29.0,Single,Male,2,Yes,Other, Thiruvananthapuram
+Raghav Chittora,917665700080,raghavchittora.rc@gmail.com,53.0,Eclature Technologies,37.0,Married,Female,5,Yes,Other,kochi
+Harish,918904033369,harish@psharish.com,37.0,Harini Informatics,41.0,Married,Female,6,Yes,Other,Madurai
+Chandan Gupta,918013419253,chandan_gupta04@yahoo.com,81.0,Tech Mahindra,30.0,Single,Male,6,Yes,Other,Mysore
+Katick Chandra,919830311513,kartickshow@gmail.com,67.0,TCS,23.0,Single,Male,3,Yes,Other,Hyderabad
+Prasun,918908514570,ghosh.prasunkanti79@gmail.com,58.0,Info Edge Solutions,48.0,Married,Female,4,Yes,Other,Pondicherry
+Rahul,919886111042,rahulscientist2020@gmail.com,64.0,Hi Caliber IT Solutions,42.0,Married,Female,6,Yes,Other,Mysore
+Shilpa Deshmukh,917775004754,shilpa10aug@gmail.com,81.0,Tech Mahindra,25.0,Single,Male,1,Yes,Other,Hyderabad
+Amit Kohli,919892104801,amitsinghkohli@gmail.com,56.0,Brio Technologies Private Limited,50.0,Married,Female,3,Yes,Other, Thiruvananthapuram
+Ashish,917798982817,ashishkrsahu@gmail.com,24.0,Microsoft,34.0,Single,Male,6,Yes,Other,Madurai
+Vaibhav,918050829461,vaibhavvs.vs@gmail.com,55.0,I2Space Technologies,32.0,Married,Female,2,Yes,Other,Chennai
+Pravin Suresh Tawade,919960779115,pravin691983@gmail.com,70.0,CTS,27.0,Single,Male,4,Yes,Other,Hyderabad
+Radhika Vicharapu,918985043806,radhikavicharapu@gmail.com,81.0,CapGemini,28.0,Single,Male,4,Yes,Other,Chennai
+Shrikant Angre,919867668134,shrikant.angre@gmail.com,69.0,Google,23.0,Single,Male,6,Yes,Other,Coimbatore
+Prateek Kode,919420616177,mi.prateek@outlook.com,84.0,HCL,28.0,Single,Male,2,Yes,Other,Bangalore
+Swapnil Mali,919730204400,swapnilmali83@gmail.com,77.0,Jaro Education,45.0,Married,Female,2,Yes,Other,kochi
+Abrar Khalandar,919535066215,abrarkhalandar@gmail.com,87.0,Microsoft,27.0,Single,Male,6,Yes,Other,Hyderabad
+Rajesh Bijja,916304846648,urbijjarajesh@gmail.com,70.0,Omniscient IT Solutions Pvt Ltd,39.0,Married,Female,6,Yes,Other,Mysore
+Atul Wani,919741079846,atulmwani@gmail.com,55.0,Esalemedia,35.0,Married,Female,3,Yes,Other,Coimbatore
+Mohmadd Mazher,919032515869,mazher265@gmail.com,88.0,Accenture,26.0,Single,Male,2,Yes,Other,Bangalore
+Narasimha,919989057331,nrasimha@gmail.com,52.0,Askmeguru,43.0,Married,Female,5,Yes,Other,Mysore
+Ramesh,919000202034,kowshik.ramesh@gmail.com,71.0,Metacube Software Pvt. Ltd,41.0,Married,Female,6,Yes,Other,Madurai
+Mani Daraisipudi,919949424262,manidarisipudi@gmail.com,51.0,Tech Mahindra,36.0,Single,Male,6,Yes,Other,kochi
+Karthikeyan Balusami,919008408606,b_karthii@yahoo.com,87.0,CTS,26.0,Single,Male,2,Yes,Other,Bangalore
+Kishan Kumar,919945757767,kishankumarr@ymail.com,13.0,IBM,36.0,Single,Male,2,Yes,Other,Hyderabad
+Harsh,919886202012,techhd14792@gmail.com,63.0,CapGemini,35.0,Single,Male,5,Yes,Other,Bangalore
+Pawan Kumar,919899833445,pawankumar347@gmail.com,89.0,Accenture,25.0,Single,Male,5,Yes,Other,Chennai
+Indira Gohad,919449804863,indiragohad@gmail.com,87.0,Deloitte,22.0,Single,Male,1,Yes,Other,Madurai
+Sushant gupta,919632539393,sushant4nt@gmail.com,80.0,Tech Mahindra,25.0,Single,Male,6,Yes,Other,Hyderabad
+Deepak kolekar,919594240014,deepakm.kolekar@gmail.com,28.0,Microsoft,45.0,Single,Male,3,Yes,Other,Madurai
+Rohini Darne,919822699008,darne.rohini@gmail.com,82.0,Infosys,26.0,Single,Male,6,Yes,Other,Bangalore
+Shreyas,919833578551,shreyas.slr@gmail.com,54.0,Accuracy,42.0,Married,Female,5,Yes,Other,Madurai
+Ashraf Mohammed,917799333387,ashraf.wgl@gmail.com,50.0,Mindtree,48.0,Married,Female,1,Yes,Other,Coimbatore
+Dileep MADAKKAYI NARAYANAN,917760889898,dileepmnmpm@gmail.com,70.0,IntelloLabs,37.0,Married,Female,6,Yes,Other, Thiruvananthapuram
+SUBHAS HEGDE,919008514626,hegde_subhas@yahoo.com,57.0,Intelex Systems,38.0,Married,Female,6,Yes,Other,kochi
+Ritesh Soni,918390331112,riteshsoni82@gmail.com,75.0,CTS,24.0,Single,Male,2,Yes,Other,Madurai
+Shreeshail Gadaginamath,919158886368,shreeshail@yahoo.com,72.0,HCL,30.0,Single,Male,5,Yes,Other,Bangalore
+Arun Mathad,919167013974,azmathad@gmail.com,83.0,CapGemini,30.0,Single,Male,2,Yes,Other,kochi
+Sudhakar Anemu,918884682216,sudhakar.anemu@gmail.com,87.0,Tech Mahindra,23.0,Single,Male,2,Yes,Other,Coimbatore
+Shruti Biswas,917774033911,shruti.bj@gmail.com,64.0,Sopra Steria,54.0,Married,Female,2,Yes,Other,Chennai
+Gnana Jecia Arul Selvam,919930512202,arul.jecia@gmail.com,62.0,Genpact,23.0,Single,Male,5,Yes,Other,Bangalore
+Anima Kumari,919555607721,anima3011@gmail.com,59.0,IBrand Solutions,49.0,Married,Female,4,Yes,Other,Pondicherry
+Chirag Garg,919886877883,chirag_garg@ymail.com,54.0,Amazon,24.0,Single,Male,6,Yes,Other, Thiruvananthapuram
+Diwjen Philixon,919970041683,diwjenp@gmail.com,45.0,Team Embedded,38.0,Married,Female,5,Yes,Other,Chennai
+Ujwala Kotha,918105315828,ujwala.ganga@gmail.com,57.0,Cravaka Info Systems,50.0,Married,Female,2,Yes,Other, Thiruvananthapuram
+Pallavi Bose,919764657679,pallavi.dbose@gmail.com,54.0,TCS,43.0,Single,Male,5,Yes,Other,Madurai
+Ruby Mishra,919922990812,kumruby@gmail.com,77.0,Microsoft,30.0,Single,Male,6,Yes,Other,Madurai
+Amit DAS,919051105556,reply.amitdas@gmail.com,87.0,Google,30.0,Single,Male,4,Yes,Other,Chennai
+Spandana Vadali,919632254024,jny.spandana@gmail.com,89.0,Genpact,25.0,Single,Male,6,Yes,Other,Hyderabad
+Amarnath Palleda,918297468957,amarnathmanju@gmail.com,63.0,Brihaspathi TechnologiesMBR Informatics,44.0,Married,Female,5,Yes,Other, Thiruvananthapuram
+Anil chalumuri,919972465500,anil.chalumuri@gmail.com,84.0,Tech Mahindra,23.0,Single,Male,6,Yes,Other,Pondicherry
+Khusbu SINHA,917996916172,khusbu.success@gmail.com,75.0,Impecsoft Solutions,44.0,Married,Female,4,Yes,Other,Mysore
+Jyotsna Purkar,918698191100,jyotsna.purkar@gmail.com,76.0,Innvectra Softech,50.0,Married,Female,2,Yes,Other,Bangalore
+Arun,919717515745,arunk.vnk@gmail.com,16.0,Yana Software Private LimitedOlympiasoft,44.0,Married,Female,4,Yes,Other,kochi
+Piyush Deshpande,919850823368,piyush.deshpande@yahoo.com,71.0,CapGemini,44.0,Single,Male,6,Yes,Other,Chennai
+Harshal Deshpande,919822841124,harshaldeshpande2311@gmail.com,81.0,Deloitte,28.0,Single,Male,1,Yes,Other,Pondicherry
+Rahul Kapgate,919096333847,rahul.kapgate@gmail.com,88.0,Amazon,27.0,Single,Male,1,Yes,Other,Pondicherry
+Navneet Juvatkar,919820174817,navneet.juvatkar@gmail.com,54.0,Tech Mahindra,50.0,Single,Male,6,Yes,Other,Madurai
+Venkateshwarlu Vangala,919663376503,vvangalas@gmail.com,58.0,Techno Brain Ltd,53.0,Married,Female,5,Yes,Other,Bangalore
+Gururaj,919538553346,gururajca01@gmail.com,72.0,Software Solutions,48.0,Married,Female,2,Yes,Other,Hyderabad
+Ankita Kallurwar,918999473417,ankita.kallurwar@gmail.com,85.0,Accenture,30.0,Single,Male,6,Yes,Other, Thiruvananthapuram
+jayanth gopu,918919390387,jayanthgopu@gmail.com,63.0,EON Technologies,38.0,Married,Female,2,Yes,Other,Bangalore
+Prashanth Rao,919900162599,prashanth.rao55@gmail.com,52.0,Rapidsoft Technologies Pvt Ltd,35.0,Married,Female,6,Yes,Other,Madurai
+Rahul Adunuthula,916301311900,rahulreddy.adunuthula@yahoo.com,72.0,Amazon,28.0,Single,Male,4,Yes,Other,Chennai
+Sudarshan Sonawane,919892937837,sudarshan.1307@gmail.com,58.0,Toshiba Software India Pvt ltd,45.0,Married,Female,2,Yes,Other,Hyderabad
+Harsh Vardhan,918826266552,h1005vardhan@gmail.com,66.0,Tech Mahindra,32.0,Single,Male,6,Yes,Other,Mysore
+KARTHICK KALIDOSS,918608886343,kartikram90@gmail.com,81.0,TCS,25.0,Single,Male,3,Yes,Other,Chennai
+Amol Ingale,918237202120,amol474747@gmail.com,81.0,Wipro,25.0,Single,Male,5,Yes,Other,Mysore
+Nithya Devi Omtri,919035987660,omtri.nithya@gmail.com,79.0,Embassy IT Solutions,54.0,Married,Female,6,Yes,Other,Chennai
+Shyam Kushwaha,918139983579,kushwaha.shyam20jan@gmail.com,63.0,Tech Mahindra,51.0,Married,Female,1,Yes,Other,Coimbatore
+Indu Yekkala,919985743722,indu12.cse@gmail.com,59.0,VeServ,37.0,Married,Female,6,Yes,Other,Chennai
+Satheesh Vellath,917506272201,satheesh.vellath@gmail.com,78.0,Eclature Technologies,39.0,Married,Female,6,Yes,Other,Madurai
+Khushboo Maitreyee,919007590144,khushboo172swati@gmail.com,81.0,TCS,23.0,Single,Male,1,Yes,Other,Madurai
+Srikar Pallerla,919866215712,vrushali6@gmail.com,84.0,Accenture,23.0,Single,Male,1,Yes,Other,Madurai
+Vikrant Mudliyar,919769588801,vbmactive@gmail.com,61.0,Harini Informatics,36.0,Married,Female,6,Yes,Other,Chennai
+Santosh Kumar Pottimoorti,919951263893,psantoshkumar@gmail.com,73.0,Info Edge Solutions,34.0,Married,Female,3,Yes,Other,Coimbatore
+Suvotosh Nandi,917003857039,suvotoshnandi30@gmail.com,70.0,Accenture,40.0,Single,Male,1,Yes,Other,Bangalore
+Swapnil Mahure,918374367693,swapyface@gmail.com,73.0,TCS,28.0,Single,Male,2,Yes,Other,Hyderabad
+Pramod,917995853104,svksa.pramodhtej@gmail.com,67.0,Hi Caliber IT Solutions,41.0,Married,Female,1,Yes,Other,Hyderabad
+Archana Kumari,919000012826,archanabandari8@gmail.com,75.0,Brio Technologies Private Limited,34.0,Married,Female,1,Yes,Other,Bangalore
+Mayank Gupta,919867092321,guptamayank.ds@gmail.com,85.0,IBM,30.0,Single,Male,5,Yes,Other,Pondicherry
+Jagan mekhala,919550449719,jagan_n123@yahoo.com,63.0,Wipro,53.0,Single,Male,6,Yes,Other,Chennai
+Aneesha Aggarwal,918094822234,rastogi.aneesha@gmail.com,64.0,HCL,40.0,Single,Male,4,Yes,Other,Pondicherry
+Sanjit Ghosh,919049004678,sanjkghosh1@gmail.com,68.0,TCS,23.0,Single,Male,6,Yes,Other,Pondicherry
+Satyajit Sen,919438300015,7.satyajit@gmail.com,86.0,Deloitte,29.0,Single,Male,5,Yes,Other,Mysore
+Kanishk,918967176015,kanishkaujjain@yahoo.com,84.0,Microsoft,27.0,Single,Male,3,Yes,Other,Hyderabad
+Rijo thomas,918378996552,rijothomas46@gmail.com,59.0,TCS,35.0,Single,Male,5,Yes,Other, Thiruvananthapuram
+Rajiv Turkar,919320877451,rajiv.turkar@gmail.com,85.0,CapGemini,30.0,Single,Male,5,Yes,Other,Pondicherry
+Bidyuta Panda,917411593212,panda.bidyut@gmail.com,66.0,I2Space Technologies,35.0,Married,Female,6,Yes,Other,Coimbatore
+Paromita Bhaduri,919620400600,paromitabhaduri3@gmail.com,80.0,Google,25.0,Single,Male,2,Yes,Other,Hyderabad
+Varun Karthik Eranti,919966190669,varunkarthik.eranti@gmail.com,75.0,Infosys,26.0,Single,Male,6,Yes,Other,Bangalore
+Sai Kiran,919885362050,saikiran82@gmail.com,74.0,Tech Mahindra,34.0,Single,Male,3,Yes,Other,Bangalore
+Prabhakar Eeka,919704531345,eekabiotek@gmail.com,58.0,Google,35.0,Single,Male,2,Yes,Research and Development,Coimbatore
+Priya Tripathi,919916834179,priya11tripathi@gmail.com,84.0,Amazon,30.0,Single,Male,4,Yes,Research and Development,Hyderabad
+Phani Patnala,919160822224,phanihai@gmail.com,85.0,Amazon,26.0,Single,Male,5,Yes,Research and Development,Bangalore
+Venumadhav Boggavarapu,918886126123,boggavarapu72@gmail.com,74.0,Tech Mahindra,27.0,Single,Male,3,Yes,Research and Development,Pondicherry
+Narayan Chandra Maharana,918438238965,narayantalk2u@gmail.com,68.0,Jaro Education,42.0,Married,Female,6,Yes,Research and Development,Pondicherry
+Rakesh Palaparthi,918309886539,rakesh.palaparthi@gmail.com,70.0,Tech Mahindra,27.0,Single,Male,4,Yes,Research and Development,Bangalore
+Jayant Rawat,918448704112,rawatjay416@gmail.com,72.0,Accenture,36.0,Single,Male,5,Yes,Research and Development,Hyderabad
+Sureshbabu Dhandapani,919940461302,dsureshbabudba@gmail.com,79.0,Omniscient IT Solutions Pvt Ltd,43.0,Married,Female,2,Yes,Research and Development, Thiruvananthapuram
+Sujay Sarkar,919008466977,sujay_kelvin@yahoo.com,61.0,Esalemedia,52.0,Married,Female,1,Yes,Research and Development,Mysore
+NAJUMUDHEEN,919840915817,najus.mudoms@gmail.com,64.0,Askmeguru,40.0,Married,Female,3,Yes,Research and Development,Mysore
+Srinivas Danda,918050002858,cnu.javatechie@gmail.com,21.0,Metacube Software Pvt. Ltd,36.0,Married,Female,3,Yes,Research and Development,Madurai
+venkatesh narayana,919886657784,n_venkatesh11@yahoo.co.in,62.0,Accuracy,44.0,Married,Female,4,Yes,Research and Development,Mysore
+Mohammed Thameem Ansari,919043132029,ansaribe@gmail.com,80.0,TCS,28.0,Single,Male,2,Yes,Research and Development,Madurai
+Prashant Jadhav,918055861373,prashant.jadhav.pune@gmail.com,31.0,Mindtree,45.0,Married,Female,5,Yes,Research and Development,Hyderabad
+Rajiv Rai,919632221249,raraikon@gmail.com,37.0,IntelloLabs,44.0,Married,Female,2,Yes,Research and Development,Pondicherry
+RamaRao K V,919908815566,ramkotari@gmail.com,83.0,IBM,28.0,Single,Male,5,Yes,Research and Development, Thiruvananthapuram
+Ashok Gupta,919833660129,ashok.incredible@gmail.com,72.0,Intelex Systems,35.0,Married,Female,5,Yes,Research and Development,Mysore
+Mahesha Siddayya Nadoddi,919845350312,maheshsn0292@gmail.com,87.0,CTS,30.0,Single,Male,4,Yes,Research and Development,kochi
+Deepali Kewlani,919422223286,deepali.menghani@gmail.com,77.0,Sopra Steria,47.0,Married,Female,1,Yes,Research and Development,Hyderabad
+Meenakshi Sahu,919890875149,dollymeenak@gmail.com,78.0,IBrand Solutions,49.0,Married,Female,1,Yes,Research and Development,Madurai
+Shubha,919901905998,shubha.gr2@gmail.com,7.0,Accenture,34.0,Single,Male,3,Yes,Research and Development,Madurai
+Srikanth Perumbuduri,919849572269,peru.srikanth@gmail.com,77.0,Team Embedded,44.0,Married,Female,1,Yes,Research and Development,Bangalore
+Amit Rana,919642767723,amit.rana93@gmail.com,66.0,HCL,35.0,Single,Male,4,Yes,Research and Development,Mysore
+Aditya Kumar,917506272270,aditya.jse@gmail.com,89.0,IBM,22.0,Single,Male,2,Yes,Research and Development, Thiruvananthapuram
+SRIKANTH REDDY KOTHAPALLI,917799662034,worldofsrikanth@gmail.com,87.0,Deloitte,25.0,Single,Male,2,Yes,Research and Development,Pondicherry
+Michael Raj J,918147057518,michaelraj1811@gmail.com,62.0,Cravaka Info Systems,37.0,Married,Female,4,Yes,Research and Development, Thiruvananthapuram
+shriya Gayatri,919686740870,shriya.gayatri@gmail.com,56.0,CTS,52.0,Single,Male,4,Yes,Research and Development,Coimbatore
+Kanta Mandavi,918886356746,kantamandavi@gmail.com,13.0,Brihaspathi TechnologiesMBR Informatics,32.0,Married,Female,6,Yes,Research and Development,Mysore
+Krishna Teja,919172241333,mvkrishnateja1988@gmail.com,85.0,Microsoft,25.0,Single,Male,6,Yes,Research and Development,kochi
+Vandhana PM,917358049621,vandhanapm102@gmail.com,71.0,Impecsoft Solutions,32.0,Married,Female,3,Yes,Research and Development, Thiruvananthapuram
+Sandeep Kumar Behera,919049004484,sandeepkbehera@gmail.com,51.0,Innvectra Softech,32.0,Married,Female,4,Yes,Research and Development,Coimbatore
+Shivangi Shivhare,918983188770,aradhana.shivhare1@gmail.com,89.0,Microsoft,29.0,Single,Male,4,Yes,Research and Development,Madurai
+Shelly Midha,919810073371,shelly.midha@gmail.com,5.0,HCL,22.0,Single,Male,5,Yes,Research and Development,Chennai
+Dhiraj,917003497353,dhirajvs020202@gmail.com,86.0,Google,29.0,Single,Male,5,Yes,Research and Development,Bangalore
+Veena,919980190348,veena.srivatsa@gmail.com,61.0,Accenture,25.0,Single,Male,4,Yes,Research and Development, Thiruvananthapuram
+Harshita Bidwaikar,919604308402,har.bid@gmail.com,58.0,Yana Software Private LimitedOlympiasoft,49.0,Married,Female,5,Yes,Research and Development,Chandigarh
+Sunil Thuppa,918639560613,neel4r@gmail.com,64.0,IBM,22.0,Single,Male,5,Yes,Research and Development,kanpur
+Madan,919845417886,madanmohare@gmail.com,71.0,Wipro,42.0,Single,Male,4,Yes,Research and Development,Bhopal
+Vishal Punamia,917977743976,visshal79@gmail.com,62.0,Techno Brain Ltd,40.0,Married,Female,1,Yes,Research and Development,Allahabad
+Muralidhar Chittapragada,919866170767,murali_pragada@hotmail.com,88.0,Accenture,26.0,Single,Male,2,Yes,Research and Development,Kota
+Rahul Chiplunkar,918879775878,rahul.chiplunkar@gmail.com,85.0,TCS,28.0,Single,Male,2,Yes,Research and Development,Varanasi
+Barnali bhattacharya,919899670329,b.barnali@gmail.com,60.0,Software Solutions,31.0,Married,Female,6,Yes,Research and Development,Lucknow
+Deepanshu Gupta,919022849558,mca.deep@gmail.com,54.0,EON Technologies,35.0,Married,Female,1,Yes,Research and Development,Moradabad
+Ayesha Pani,918793744943,ayesha.pani7@gmail.com,81.0,Tech Mahindra,26.0,Single,Male,6,Yes,Research and Development,Meerut
+Hariharen,919840169939,hari.haren@gmail.com,85.0,CapGemini,24.0,Single,Male,5,Yes,Research and Development,Chandigarh
+Ankur Kumar,919080409363,ankurkumar.kas@gmail.com,73.0,Genpact,25.0,Single,Male,1,Yes,Research and Development,Patna
+Rajiv Sarma,919966203950,rajiv.kr.sarma@gmail.com,81.0,Genpact,24.0,Single,Male,2,Yes,Research and Development,Moradabad
+Ravi HM,9449145296,ravihm22@gmail.com,53.0,TCS,32.0,Single,Male,2,Yes,Research and Development,Lucknow
+Sohomjit Ganguly,919432137245,sunny.sohomjit13@gmail.com,88.0,Tech Mahindra,24.0,Single,Male,3,Yes,Research and Development,Ludhiana
+Bhavya,919879424896,bhavyapunjabi1996@gmail.com,89.0,Infosys,24.0,Single,Male,5,Yes,Research and Development,Meerut
+Chinmoy Sau,919431740886,chinmoys9@gmail.com,85.0,Amazon,26.0,Single,Male,3,Yes,Research and Development,Srinagar
+Prashant,919004120097,mail.prashantchawla@gmail.com,86.0,Tech Mahindra,24.0,Single,Male,3,Yes,Research and Development,Chandigarh
+Muraj Padannayil,919008288552,murajmukundan@gmail.com,80.0,Deloitte,28.0,Single,Male,4,Yes,Research and Development,Varanasi
+Yogendra Tomar,919871202489,yogendra.tomar@gmail.com,59.0,Microsoft,30.0,Single,Male,4,Yes,Research and Development,Jodhpur
+Sandeep Deora,919953425423,isandeepdeora@gmail.com,82.0,Tech Mahindra,29.0,Single,Male,4,Yes,Research and Development,Meerut
+Harish,919008490664,harish.svhk@gmail.com,69.0,Rapidsoft Technologies Pvt Ltd,37.0,Married,Female,4,Yes,Research and Development,Jodhpur
+Sharad Goel,919654040601,goelsharad15@gmail.com,86.0,TCS,29.0,Single,Male,3,Yes,Research and Development,Bhopal
+Bharteesh,918861222964,bharu123.com@gmail.com,56.0,Toshiba Software India Pvt ltd,42.0,Married,Female,4,Yes,Research and Development,Srinagar
+Akarsha,919742853016,akarsha.sravs@gmail.com,85.0,Infosys,25.0,Single,Male,5,Yes,Research and Development,Ludhiana
+Karthik Srigaddhe,918451917972,karthik.sri042@gmail.com,70.0,Wipro,32.0,Single,Male,6,Yes,Research and Development,Patna
+Dhinesh PK,919894406011,dhineshpk2000@gmail.com,82.0,Google,30.0,Single,Male,6,Yes,Research and Development,Gwalior
+Rohini Valasapally,919740698723,rohini.magam@gmail.com,58.0,IBM,35.0,Single,Male,1,Yes,Research and Development,Jabalpur
+Amit Haval,919326482648,amit.haval@gmail.com,2.0,TCS,50.0,Single,Male,2,Yes,Research and Development,Meerut
+Surendra Gangarapu,919840216269,surendra.gangarapu@gmail.com,86.0,Wipro,25.0,Single,Male,1,Yes,Research and Development,Ludhiana
+Madhan,919944932224,madhanav@gmail.com,71.0,HCL,45.0,Single,Male,3,Yes,Research and Development,Ghaziabad
+Anchit Lalwani,917260054455,h15008@astra.xlri.ac.in,89.0,CapGemini,30.0,Single,Male,6,Yes,Research and Development,Bhopal
+Madhusudan Rao,919886791251,madhusudan.gr@gmail.com,62.0,Embassy IT Solutions,47.0,Married,Female,3,Yes,Research and Development,Indore
+Pabitra kumar pradhan,917207797179,pabitrajntc20@gmail.com,72.0,Tech Mahindra,44.0,Married,Female,2,Yes,Research and Development,Varanasi
+Gopi Pamunugundla,917406008789,gopip.sse@gmail.com,88.0,CTS,28.0,Single,Male,5,Yes,Research and Development,Patna
+Narendranath Reddy Palle,919885428000,nareninindia@gmail.com,72.0,VeServ,33.0,Married,Female,2,Yes,Research and Development,Aligarh
+Rajani R,919600016052,anjral7@gmail.com,64.0,Wipro,39.0,Single,Male,4,Yes,Research and Development,Srinagar
+koundinya nimmagadda,917225018026,n.koundinya@yahoo.com,64.0,Eclature Technologies,46.0,Married,Female,1,Yes,Research and Development,Jalandhar
+Varsha shetty,919881251406,varsha.shetty17@gmail.com,87.0,Tech Mahindra,26.0,Single,Male,3,Yes,Research and Development,Jodhpur
+Swastik Singh,919611132336,yourswastik@gmail.com,61.0,Harini Informatics,37.0,Married,Female,3,Yes,Research and Development,Gwalior
+Divya Mittal,919999034811,divya.mittal@gmail.com,61.0,Accenture,34.0,Single,Male,6,Yes,Research and Development,Jabalpur
+Nilesh Sangvikar,918861173638,sangvikar.nil@gmail.com,58.0,Info Edge Solutions,47.0,Married,Female,3,Yes,Research and Development,Kota
+Ramlal SAMAL,917760405230,ramlalsamal@gmail.com,65.0,Hi Caliber IT Solutions,33.0,Married,Female,3,Yes,Research and Development,Jalandhar
+Sukanya Kolapalli,917387083766,sukanyaraokolapalli@gmail.com,62.0,Wipro,28.0,Single,Male,1,Yes,Research and Development,Indore
+Azeemoddin,919553362610,azzu.25@gmail.com,54.0,Brio Technologies Private Limited,46.0,Married,Female,1,Yes,Research and Development,Indore
+Uday Tiwari,919513066790,uday.tiwari@hotmail.com,79.0,TCS,26.0,Single,Male,6,Yes,Research and Development,Indore
+Arun Mahi,919818957857,arun.mahi@gmail.com,79.0,Genpact,45.0,Single,Male,4,Yes,Research and Development,Lucknow
+Sisther Thangaraj,919962115139,sis.sis123@gmail.com,70.0,I2Space Technologies,36.0,Married,Female,6,Yes,Research and Development,Amritsar
+Prasad Marada,919885809052,prasad.marada@gmail.com,58.0,Accenture,30.0,Single,Male,2,Yes,Research and Development,Bhopal
+Nikhil K Raman,919319454389,n123raman@gmail.com,84.0,Infosys,27.0,Single,Male,2,Yes,Research and Development,Meerut
+Risheedhar Sareddy,919866404969,risheedhar@gmail.com,84.0,TCS,28.0,Single,Male,2,Yes,Finance,Varanasi
+Binu hada,918800910652,binuhada@hotmail.com,83.0,Accenture,24.0,Single,Male,2,Yes,Finance,Jabalpur
+Amit Dhanuka,918050329803,amit.kr.dhanuka@gmail.com,86.0,Infosys,27.0,Single,Male,5,Yes,Finance,Delhi
+Jaslene Bawa,919970045388,jaslene.bawa@gmail.com,78.0,CapGemini,26.0,Single,Male,3,Yes,Finance,Kota
+Raghunath,919963953056,sraghunath81@gmail.com,76.0,Jaro Education,31.0,Married,Female,3,Yes,Finance,Meerut
+Velrajan Thangavelu,919790577588,velraj.mca@gmail.com,88.0,Genpact,29.0,Single,Male,4,Yes,Finance,Chandigarh
+Kishore Parsi,917893777648,kishoreparsi@gmail.com,74.0,Deloitte,26.0,Single,Male,4,Yes,Finance,Srinagar
+SASIKUMAR TK,919986110837,sasitk@yahoo.com,56.0,Omniscient IT Solutions Pvt Ltd,35.0,Married,Female,2,Yes,Finance,Agra
+Valli Vishwanath,919840421963,viswa.valli@gmail.com,58.0,Tech Mahindra,54.0,Single,Male,1,Yes,Finance,Aligarh
+Akash Bhatt,918319625841,akashbhatt94@gmail.com,84.0,TCS,30.0,Single,Male,2,Yes,Finance,Ludhiana
+ANIL KUMAR,919784149616,anilpoonamkumar@gmail.com,72.0,Esalemedia,42.0,Married,Female,5,Yes,Finance,Srinagar
+Kiranmai chamarthy,919052959495,kiranmaichamarthy.26@gmail.com,83.0,TCS,25.0,Single,Male,3,Yes,Finance,Ludhiana
+Ramling Shipure,919986414237,ramlingshp1@gmail.com,85.0,Infosys,27.0,Single,Male,1,Yes,Finance,Patna
+Suyash Singh,918106841113,singsuyash@gmail.com,0.0,Tech Mahindra,50.0,Single,Male,6,Yes,Finance,Bhopal
+Nabajyoti Borah,917503365798,nabajyoti.borah10273@gmail.com,81.0,Wipro,23.0,Single,Male,3,Yes,Finance,Indore
+Pratap Urath,919949007005,upmenon@yahoo.com,83.0,CapGemini,30.0,Single,Male,6,Yes,Finance,Patna
+Remesh ck,918792146231,ckremesh@gmail.com,56.0,Genpact,48.0,Single,Male,4,Yes,Finance,Ludhiana
+Nirosha Tekumudi,917893165360,niroshatekumudi24@gmail.com,85.0,Google,22.0,Single,Male,1,Yes,Finance,Amritsar
+Rajesh Belide,919573216874,rajesh7gemini@gmail.com,74.0,Askmeguru,47.0,Married,Female,1,Yes,Finance,Bhopal
+Chinmay Athavale,912068497580,chinmayat@gmail.com,72.0,IBM,30.0,Single,Male,5,Yes,Finance,kanpur
+Sathya Narayanan,919962352211,sathishrsathya@gmail.com,65.0,Metacube Software Pvt. Ltd,54.0,Married,Female,6,Yes,Finance,Moradabad
+Pratap Chauhan,919690044998,pchauhan.992@gmail.com,78.0,Accuracy,33.0,Married,Female,6,Yes,Finance,Patna
+Mastan,919885130505,mastanparuchuri258@gmail.com,81.0,Tech Mahindra,28.0,Single,Male,4,Yes,Finance,Patna
+Shivank Sharma,918248278761,shivank072@gmail.com,55.0,Mindtree,35.0,Married,Female,2,Yes,Finance,Aligarh
+Abhishek Basu,919962473962,abhishekbs30@gmail.com,63.0,IBM,36.0,Single,Male,1,Yes,Finance,Faridabad
+B Rajesh,919972800508,rajesh.bglore139@gmail.com,69.0,IntelloLabs,45.0,Married,Female,1,Yes,Finance,Lucknow
+Jaganathan Krishnan,919840119248,jagkrish@gmail.com,84.0,Infosys,30.0,Single,Male,3,Yes,Finance,Jabalpur
+Shashi kanth,917799282211,shashikanth.thmpli@gmail.com,69.0,Tech Mahindra,24.0,Single,Male,3,Yes,Finance,Lucknow
+Vijay Prajapati,918793609066,vijay.prajapati99@hotmail.com,55.0,Tech Mahindra,34.0,Single,Male,3,Yes,Finance,Meerut
+Sandip Bhadani,919940331476,bhadani.sandip4@gmail.com,71.0,CapGemini,29.0,Single,Male,3,Yes,Finance,Srinagar
+Gautami Nahar,919096155658,nahargautami@gmail.com,89.0,Microsoft,23.0,Single,Male,5,Yes,Finance,Moradabad
+Prasanna Bodapati,919886143942,prasannakumar11@gmail.com,84.0,Amazon,23.0,Single,Male,2,Yes,Finance,Srinagar
+Tushar,919028795019,tushar.r.sanas@gmail.com,74.0,Intelex Systems,36.0,Married,Female,2,Yes,Finance,kanpur
+Rakesh Kumar Verma,919718017404,rakesh.sharepoint@yahoo.com,72.0,Tech Mahindra,24.0,Single,Male,4,Yes,Finance,Chandigarh
+Shubhendu Karmakar,919330974711,shubhendu.karmakar1997@gmail.com,0.0,TCS,28.0,Single,Male,3,Yes,Finance,Jalandhar
+Sapna Yadav,919910712575,saps.sd@gmail.com,30.0,Tech Mahindra,51.0,Single,Male,1,Yes,Finance,Chandigarh
+Atul Kubade,919970886478,atulgkubade-23@yahoo.co.in,76.0,Sopra Steria,50.0,Married,Female,1,Yes,Finance,Varanasi
+Jayakumar Jaganathan,919952832217,jjayaakumar@gmail.com,83.0,Infosys,28.0,Single,Male,2,Yes,Finance,Allahabad
+Varunesh Mathur,919953226614,varunesh.mathur@gmail.com,20.0,IBrand Solutions,52.0,Married,Female,1,Yes,Finance,Gwalior
+Himanshu Sharma,917829342911,mca.himanshusharma@gmail.com,83.0,HCL,22.0,Single,Male,6,Yes,Finance,Allahabad
+Manaswitha Banala,919676667436,baanaala08@gmail.com,81.0,HCL,28.0,Single,Male,6,Yes,Finance,Srinagar
+Amar Sheth,919869070141,shethaa2000@gmail.com,60.0,Infosys,54.0,Single,Male,4,Yes,Finance,Patna
+sunil kumar,919949989468,sunil.36500@gmail.com,53.0,Genpact,44.0,Single,Male,1,Yes,Finance,Indore
+Ankit Verma,919730226232,official.va01@gmail.com,69.0,Team Embedded,51.0,Married,Female,3,Yes,Finance,Chandigarh
+Shweta,919560452151,sdshwetadixit@gmail.com,78.0,Infosys,23.0,Single,Male,5,Yes,Finance,Patna
+Rahul Kumar,917903500361,r9aman@gmail.com,66.0,HCL,44.0,Single,Male,1,Yes,Finance,Ghaziabad
+Ambily Sreedharan,919500044210,ambilysreedharan1@gmail.com,86.0,CTS,22.0,Single,Male,6,Yes,Finance,kanpur
+Ravi Seetharaman,919940092594,sravi8@yahoo.com,58.0,Cravaka Info Systems,54.0,Married,Female,5,Yes,Finance,kanpur
+Rajeshwari Metuku,919052950348,rajammulu1@gmail.com,70.0,Brihaspathi TechnologiesMBR Informatics,31.0,Married,Female,5,Yes,Finance,Varanasi
+Praneeth Kadari,919966018189,kadari.praneeth@gmail.com,85.0,Wipro,30.0,Single,Male,5,Yes,Finance,Gwalior
+Sai Himasairaj,919100880007,hmediche@gmail.com,86.0,CTS,27.0,Single,Male,4,Yes,Finance,Delhi
+Charan Teja Ayyala,918095326106,mailtocharan@gmail.com,86.0,HCL,24.0,Single,Male,4,Yes,Finance,Jodhpur
+Deepak mali,919619255185,ssm.deepak@gmail.com,63.0,Impecsoft Solutions,34.0,Married,Female,3,Yes,Finance,Bhopal
+Krishna Kidambi,919100945990,krishna.kidambi@gmail.com,80.0,Tech Mahindra,25.0,Single,Male,2,Yes,Finance,Indore
+Ramakrishna,919739183972,makutam.rk@gmail.com,72.0,Innvectra Softech,51.0,Married,Female,4,Yes,Finance,Allahabad
+Shashank,918109484898,shashank.via@gmail.com,82.0,Accenture,22.0,Single,Male,3,Yes,Finance,Patna
+Rakesh,919822228904,rakeshshettys@gmail.com,24.0,Yana Software Private LimitedOlympiasoft,39.0,Married,Female,6,Yes,Finance,Gwalior
+Suman Mahapatra,919860939637,suman.mahapatra69@gmail.com,77.0,Techno Brain Ltd,43.0,Married,Female,6,Yes,Finance,Delhi
+Samar Singh,918800522313,samar.rajput15@gmail.com,66.0,Tech Mahindra,42.0,Single,Male,6,Yes,Finance,Kota
+A.BHARATHKUMAR ayyadurai,918903424585,a.bharath98@gmail.com,50.0,Software Solutions,46.0,Married,Female,3,Yes,Finance,Aligarh
+Sid,919632389771,koolspy.siddhu@gmail.com,71.0,EON Technologies,36.0,Married,Female,6,Yes,Finance,Allahabad
+Srinivasa Kalyan Murthy Bonda,919395566299,kalyan.bonda@gmail.com,70.0,Rapidsoft Technologies Pvt Ltd,31.0,Married,Female,2,Yes,Finance,Gurgaon
+Jigna Thacker,918369231499,jignazt@yahoo.com,81.0,CapGemini,28.0,Single,Male,6,Yes,Finance,Indore
+Amber Javeri,919833700368,amberjaveri@yahoo.com,81.0,HCL,26.0,Single,Male,2,Yes,Finance,Jabalpur
+Mrinmoy Dey,919007565366,mrinmoydey.dey@gmail.com,69.0,Google,26.0,Single,Male,1,Yes,Finance,Jalandhar
+Raja k,919663188995,nk.raja33@gmail.com,54.0,Infosys,37.0,Single,Male,1,Yes,Finance,Patna
+Eklavya Lodha,918082040780,eklavya.lodha@gmail.com,64.0,Toshiba Software India Pvt ltd,47.0,Married,Female,4,Yes,Finance,Delhi
+Srinivas,918096004646,srnvsthati@gmail.com,37.0,CTS,33.0,Single,Male,6,Yes,Finance,Bhopal
+Srirag Radhakrishnan,918281915341,sriragr@gmail.com,84.0,Microsoft,22.0,Single,Male,6,Yes,Finance,Jabalpur
+snehal pachpande,917219196549,snehalpachpande11.sp@gmail.com,71.0,Embassy IT Solutions,35.0,Married,Female,3,Yes,Finance,Ghaziabad
+Vikrant Sharma,919560160342,vikrant.sapbpc@gmail.com,86.0,Tech Mahindra,30.0,Single,Male,3,Yes,Finance,Lucknow
+Shubha,918113870602,shubha.covilakam@gmail.com,89.0,Tech Mahindra,25.0,Single,Male,2,Yes,Finance,Agra
+shalini Bheemavarapu,919642934929,shalini.bheemavarapu@gmail.com,67.0,Amazon,40.0,Single,Male,1,Yes,Finance,Jodhpur
+Mounika,919052003638,mouni.c2cbit@gmail.com,73.0,Wipro,53.0,Single,Male,1,Yes,Finance,Gurgaon
+Aseem Lall,919891150862,aseem_lall@yahoo.com,50.0,Tech Mahindra,40.0,Married,Female,1,Yes,Finance,Bareilly
+Prashant Rao,918806661552,p.rao53@gmail.com,85.0,Deloitte,23.0,Single,Male,4,Yes,Finance,Srinagar
+Chandra Sekhar Kumar Sanapala,918790613434,sekharsanapala@gmail.com,59.0,VeServ,32.0,Married,Female,1,Yes,Finance,Faridabad
+Venkat Mohan,918056105717,cherai.venkat.mohan@gmail.com,86.0,Infosys,29.0,Single,Male,6,Yes,Finance,Meerut
+Abdul Ameed,919916132147,abdulameedsa@gmail.com,67.0,Eclature Technologies,33.0,Married,Female,4,Yes,Finance,Agra
+Nazia Fathima,919740224970,naziafathima.0412@gmail.com,62.0,Harini Informatics,35.0,Married,Female,3,Yes,Finance,Srinagar
+Meenakshi,919535322755,meenakshi.allahabad@gmail.com,58.0,Info Edge Solutions,31.0,Married,Female,4,Yes,Finance,Jodhpur
+Dipti Jana,918888810772,diptijana@gmail.com,66.0,Hi Caliber IT Solutions,53.0,Married,Female,5,Yes,Finance,Faridabad
+Chandra Shekhar,919686685685,chanduce2000@gmail.com,52.0,Brio Technologies Private Limited,32.0,Married,Female,1,Yes,Finance,Kota
+Lavanya,919632355885,bolisetty.lavanya@gmail.com,18.0,I2Space Technologies,34.0,Married,Female,1,Yes,Finance,Srinagar
+Shubhansh Maheshwari,919049571866,shubhanshm@gmail.com,61.0,Infosys,51.0,Single,Male,3,Yes,Finance,Gurgaon
+Shreyans,918971092535,shreyans1597@gmail.com,73.0,Google,50.0,Single,Male,5,Yes,Finance,Srinagar
+Hemalatha K R,919448184605,hemabgl2007@gmail.com,83.0,HCL,29.0,Single,Male,3,Yes,Finance,Moradabad
+Prashant,918586072166,luverboy.prashant@gmail.com,81.0,CTS,24.0,Single,Male,2,Yes,Finance,Lucknow
+Shireesha Kandukoori,919148675111,shireeshakandu@gmail.com,69.0,Jaro Education,54.0,Married,Female,6,Yes,Finance,Jalandhar
+Kunal,919717225920,narula.kunal@gmail.com,67.0,Infosys,52.0,Single,Male,5,Yes,Finance,Ludhiana
+Ananth Krishnan,919900562524,akrive@gmail.com,54.0,IBM,24.0,Single,Male,5,Yes,Finance,Bhopal
+Pavan Talluri,919908249413,pavan.rroyal@gmail.com,73.0,Omniscient IT Solutions Pvt Ltd,44.0,Married,Female,4,Yes,Finance,Gwalior
+Rushali Bhand,919926925202,rushali26.bhand@gmail.com,84.0,Wipro,29.0,Single,Male,3,Yes,Finance,Jabalpur
+Rohini Dwarakanath,919845618581,rohini.dwarakanath@gmail.com,59.0,Esalemedia,41.0,Married,Female,6,Yes,Finance,Patna
+Lakshman kolisetty,919686662893,lakshman.kolisetty@gmail.com,12.0,Askmeguru,51.0,Married,Female,6,Yes,Finance,Bareilly
+Sumit Aggrawal,919820231335,sumit.aggarwal@oracle.com,63.0,Microsoft,24.0,Single,Male,1,Yes,Finance,Aligarh
+Gunjan Aggarwal,919953089388,gunjanagarwal1004@gmail.com,70.0,Tech Mahindra,34.0,Single,Male,5,Yes,Finance,Patna
+Praveen,914046611286,mumbaiwolf@gmail.com,64.0,CTS,53.0,Single,Male,5,Yes,Finance,Srinagar
+Binny Cherian,919886240532,mathew1binny@gmail.com,89.0,Google,26.0,Single,Male,6,Yes,Finance,Delhi
+Arnab Roychowdhury,919831250055,arnab266819@gmail.com,25.0,Metacube Software Pvt. Ltd,32.0,Married,Female,5,Yes,Finance,Aligarh
+Nabil Hassan,917337376661,nabilhassan223@gmail.com,79.0,Microsoft,25.0,Single,Male,1,Yes,Finance,Ghaziabad
+Amit Anand,919632188002,amit.anand.iimb@gmail.com,53.0,Accuracy,34.0,Married,Female,3,Yes,Finance,Ghaziabad
+Manish giri,918400920535,manigiri2011@gmail.com,71.0,IBM,40.0,Single,Male,6,Yes,Finance,Kota
+Minal Joshi,919699656620,joshi.minal15@yahoo.com,50.0,Amazon,38.0,Single,Male,2,Yes,Finance,Ludhiana
+GAURAV AGGARWAL,919818646600,er.gauravagg@gmail.com,67.0,Genpact,47.0,Single,Male,1,Yes,Finance,Srinagar
+Surjit Dumbre,919545742398,surjitdumbre@gmail.com,85.0,Microsoft,22.0,Single,Male,4,Yes,Finance,Amritsar
+Sameer Narake,919220763216,sameernarake@rediffmail.com,63.0,Mindtree,52.0,Married,Female,3,Yes,Finance,Faridabad
+Pratik Barjatiya,918983728255,pratikbarjatya@gmail.com,10.0,IntelloLabs,52.0,Married,Female,4,Yes,Finance,Varanasi
+Zaid SULTAN,919833452655,zaid.z.sultan@gmail.com,75.0,CTS,34.0,Single,Male,6,Yes,Finance,Gwalior
+vijay,919833474207,vijaynehra.18@gmail.com,57.0,Microsoft,28.0,Single,Male,2,Yes,Finance,kanpur
+Samir Sen,919849803880,samir.sen2000@gmail.com,82.0,IBM,22.0,Single,Male,5,Yes,Finance,Jabalpur
+Shineesh,918884715888,shineesh@gmail.com,88.0,Google,24.0,Single,Male,6,Yes,Finance,Srinagar
+Yamini Joshi,919599730029,yaminijoshi1989@gmail.com,72.0,Intelex Systems,32.0,Married,Female,4,Yes,Finance,Jodhpur
+Sendil Coumarane Ranganadane,919677005102,sendilcoumarane.gr@gmail.com,85.0,Tech Mahindra,23.0,Single,Male,4,Yes,Finance,Meerut
+Reddeiahraju Padmaraju,919620158775,reddeiah.raju94@gmail.com,75.0,Sopra Steria,41.0,Married,Female,4,Yes,Finance,Allahabad
+Prasad GANEGAONKAR,919922994021,pganegaonkar@gmail.com,85.0,Amazon,27.0,Single,Male,5,Yes,Finance,Gurgaon
+Daniel Stephenson,919000733868,sdaniel.stephenson@gmail.com,72.0,IBrand Solutions,41.0,Married,Female,6,Yes,Finance,Lucknow
+Raznish,916381515351,shashankrajnish@gmail.com,61.0,Infosys,33.0,Single,Male,4,Yes,Operations,Bareilly
+Priyanka Dey,918050832456,priyankadey8@hotmail.com,77.0,CapGemini,25.0,Single,Male,14,Yes,Operations,kanpur
+Yugandar chandragiri,919742386867,cyugandar2010@gmail.com,61.0,Team Embedded,42.0,Married,Female,13,Yes,Operations,Aizwal
+Debjani Sett,919339998587,sett.debjani@gmail.com,52.0,Cravaka Info Systems,35.0,Married,Female,20,Yes,Operations,Shillong
+Krishna Mohan Rao,918072021614,krish.2012@gmail.com,48.0,Brihaspathi TechnologiesMBR Informatics,35.0,Married,Female,16,Yes,Operations,Dimapur
+Bhargab Bhaduri,919967564667,bhargab_appu@rediffmail.com,72.0,Impecsoft Solutions,31.0,Married,Female,18,Yes,Operations,Aizwal
+Kalika Yadav,919425064162,kalika.yadav311@gmail.com,80.0,CapGemini,30.0,Single,Male,12,Yes,Operations,Darjeeling
+Akanchha Gupta,919764933278,akanchha.gupta1990@gmail.com,68.0,Innvectra Softech,45.0,Married,Female,14,Yes,Operations,Dhubri
+Bhakti,918989930433,bhaktiprabhakar@gmail.com,78.0,Yana Software Private LimitedOlympiasoft,49.0,Married,Female,12,Yes,Operations,Nagaon
+Nikita Jalan,919051258857,nikita.jalan89@gmail.com,65.0,Techno Brain Ltd,54.0,Married,Female,12,Yes,Operations,Aizwal
+Chitore,919502708967,chitore.gs@gmail.com,81.0,HCL,29.0,Single,Male,9,Yes,Operations,Darjeeling
+Ravi Bodala,917702243340,bodalaravi@gmail.com,81.0,Tech Mahindra,24.0,Single,Male,16,Yes,Operations,Silchar
+NAVEENPRABU,918072429456,v.p.naveenprabu@gmail.com,41.0,Microsoft,42.0,Single,Male,9,Yes,Operations,Dimapur
+Shashank,919035279074,shashank.johari88@gmail.com,73.0,Software Solutions,32.0,Married,Female,10,Yes,Operations,Nagaon
+Siddharth Mangaraj,919916274037,siddharthmangaraj09@gmail.com,9.0,EON Technologies,46.0,Married,Female,17,Yes,Operations,Patna
+Santosh mehta,919903515599,santoshkumarmehta@gmail.com,70.0,Rapidsoft Technologies Pvt Ltd,34.0,Married,Female,9,Yes,Operations,Tinsukia
+santhosh Kumar,919948406525,santhu28.sapbi@gmail.com,58.0,Toshiba Software India Pvt ltd,40.0,Married,Female,14,Yes,Operations,Silchar
+Akrish Agarrwal,919999881199,akrishagarrwal@gmail.com,81.0,Google,24.0,Single,Male,13,Yes,Operations,Jorhat
+Vavanjot Kaur,919901763009,vavanjot@gmail.com,62.0,Accenture,30.0,Single,Male,15,Yes,Operations,Tinsukia
+Suresh Manem,918056014419,sr.manem@gmail.com,73.0,Tech Mahindra,29.0,Single,Male,16,Yes,Operations,Silchar
+Sudeep Halba,917000086307,sudeephalba@gmail.com,57.0,CTS,42.0,Single,Male,13,Yes,Operations,Guwuhati
+Semonti Chakrabarti,919748973117,semonti.ch@gmail.com,88.0,Wipro,22.0,Single,Male,7,Yes,Operations,Dimapur
+BHANU PRASAD,919620672894,bhanupgs@gmail.com,79.0,Genpact,29.0,Single,Male,8,Yes,Operations,Tezpur
+Ramamirtham Thirusangu,919962178782,ramamirtham@gmail.com,66.0,IBM,25.0,Single,Male,12,Yes,Operations,Tinsukia
+Dipti Joshi,919247681936,dipti_vj@yahoo.com,88.0,HCL,25.0,Single,Male,13,Yes,Operations,Bhubaneshwar
+Akshay Chhetri,917830738124,akshaychhetri1992@gmail.com,58.0,Deloitte,42.0,Single,Male,13,Yes,Operations,Bhubaneshwar
+Shweta Kallurkar,918861821825,shweta.rkallurkar@gmail.com,89.0,CapGemini,26.0,Single,Male,17,Yes,Operations,Allahabad
+Anirudha Acharya,919611255966,aniacharya@gmail.com,1.0,Accenture,28.0,Single,Male,20,Yes,Operations,Kohima
+Om Sarmalkar,919987335155,omsarmalkar@gmail.com,89.0,IBM,22.0,Single,Male,9,Yes,Operations,Agartala
+Chayan Paria,919730998835,chayan.paria@gmail.com,68.0,Embassy IT Solutions,36.0,Married,Female,11,Yes,Operations,Aizwal
+Satish Kumar,919550205550,ns.satishkumar@gmail.com,60.0,Tech Mahindra,44.0,Single,Male,9,Yes,Operations,Aizwal
+Anu Rajan,919916096057,anugiri007@gmail.com,56.0,Tech Mahindra,31.0,Married,Female,20,Yes,Operations,Imphal
+Vishal Agrahari,919867832310,vshl.agrahari@gmail.com,79.0,VeServ,50.0,Married,Female,11,Yes,Operations,Gangtok
+Gaurav Sarawgi,917204530681,gaurav.k.sarawgi@gmail.com,81.0,Deloitte,26.0,Single,Male,15,Yes,Operations,Dhubri
+Prasanna Kumar Naik,919886458774,prasanna_n@yahoo.com,61.0,CapGemini,27.0,Single,Male,10,Yes,Operations,Bhubaneshwar
+Girish Hanuman,919886641399,girishhanuman@gmail.com,79.0,TCS,54.0,Single,Male,15,Yes,Operations,Patna
+Saurabh Kumar,919674351042,dk.saurabh@gmail.com,60.0,Eclature Technologies,43.0,Married,Female,17,Yes,Operations,Darjeeling
+Pavithra Achar,919535103548,pavithra.achar74@gmail.com,89.0,Microsoft,26.0,Single,Male,17,Yes,Operations,Tinsukia
+Mangesh Shinde,918149447983,mangeshshinde8149@gmail.com,55.0,Harini Informatics,45.0,Married,Female,13,Yes,Operations,Dimapur
+Arjun Chhikara,918879737497,arjchhikara@gmail.com,0.0,Info Edge Solutions,40.0,Married,Female,11,Yes,Operations,Allahabad
+Vijay,919886520436,vijay.chandupatla@gmail.com,74.0,Accenture,27.0,Single,Male,13,Yes,Operations,Tinsukia
+Srinivas Adumulla,919032944943,adumulla.srinivas@gmail.com,83.0,Tech Mahindra,29.0,Single,Male,16,Yes,Operations,Aizwal
+Priyadarshan Samal,919036727000,psamal81@gmail.com,67.0,Hi Caliber IT Solutions,40.0,Married,Female,13,Yes,Operations,Agartala
+Amitabh Majumder,919830551476,avatima67@gmail.com,80.0,Deloitte,24.0,Single,Male,15,Yes,HumanResources,Patna
+Aditi,918975481520,pandey.saditi@gmail.com,65.0,Brio Technologies Private Limited,44.0,Married,Female,20,Yes,HumanResources,Imphal
+Sesha Selvarangam,919500103240,seshathri1994@gmail.com,84.0,Genpact,29.0,Single,Male,10,Yes,HumanResources,Silchar
+Srinivas Rao,919885664573,sreenivas.y.rao@gmail.com,51.0,I2Space Technologies,39.0,Married,Female,20,Yes,HumanResources,Dimapur
+Anindya,918105000114,gupta.anindya@gmail.com,89.0,Genpact,27.0,Single,Male,14,Yes,HumanResources,Tinsukia
+Bijoy,919880500113,pkb.bijoy@gmail.com,62.0,Jaro Education,49.0,Married,Female,17,Yes,HumanResources,Dimapur
+Doma Sherpa,919784017944,domasherpa22@gmail.com,64.0,Omniscient IT Solutions Pvt Ltd,53.0,Married,Female,8,Yes,HumanResources,Tinsukia
+Meher,919890971882,meher.mullapudi@gmail.com,89.0,CTS,24.0,Single,Male,14,Yes,HumanResources,Shillong
+Athinarayanan Subramanian,919866323790,asubram1@gmail.com,89.0,Tech Mahindra,26.0,Single,Male,8,Yes,HumanResources,Tezpur
+Harikrishnan Nambiar,919884410536,hk_nambiar@yahoo.co.in,56.0,Esalemedia,37.0,Married,Female,20,Yes,HumanResources,Nagaon
+Ankit Agrawal,919591400992,ankkkit@hotmail.com,71.0,Genpact,28.0,Single,Male,20,Yes,HumanResources,Tinsukia
+Vincent,919845909748,04shashi05@gmail.com,71.0,Askmeguru,39.0,Married,Female,10,Yes,HumanResources,Kohima
+Ram Shankar Rajagopal Shankar,919944244922,ramshankar1311@gmail.com,69.0,Metacube Software Pvt. Ltd,45.0,Married,Female,16,Yes,HumanResources,Imphal
+Husang,919717766475,husang.rai@gmail.com,52.0,CTS,24.0,Single,Male,8,Yes,HumanResources,Kohima
+Prateek Mathur,919643313178,mathurprateek@gmail.com,24.0,Accuracy,37.0,Married,Female,19,Yes,HumanResources,Kohima
+Shailesh Sharma,919535246746,shailesh1586@gmail.com,81.0,CapGemini,29.0,Single,Male,15,Yes,HumanResources,Guwuhati
+Arun Chandran,919008377551,arunc14@hotmail.com,81.0,Amazon,30.0,Single,Male,17,Yes,HumanResources,Allahabad
+Sanmay Parida,919553962170,sanmay.parida@gmail.com,55.0,Mindtree,54.0,Married,Female,15,Yes,HumanResources,Aizwal
+Minal Belekar,919970775242,minalbelekar3@gmail.com,71.0,Google,32.0,Single,Male,18,Yes,HumanResources,Bhubaneshwar
+Piusha Debnath,919867632184,piusha2010@gmail.com,71.0,IntelloLabs,31.0,Married,Female,18,Yes,HumanResources,Bhubaneshwar
+Jaikar S S,919900379205,jaikar.ss@gmail.com,55.0,Intelex Systems,52.0,Married,Female,19,Yes,HumanResources,Patna
+Swangani,918527024888,swangani93@gmail.com,64.0,Sopra Steria,40.0,Married,Female,16,Yes,HumanResources,Tezpur
+Prameela Peddikuppa,918106139278,npr450@gmail.com,65.0,Tech Mahindra,29.0,Single,Male,9,Yes,HumanResources,Bhubaneshwar
+Irfan Ahmed,919908073391,irfan@extreme-agile.com,68.0,Tech Mahindra,25.0,Single,Male,8,Yes,HumanResources,Agartala
+Ramji,919841563007,sramjimails@gmail.com,59.0,CapGemini,35.0,Single,Male,12,Yes,HumanResources,Aizwal
+Jaya Ochaney,919223903125,jayaochaney@gmail.com,78.0,Amazon,40.0,Single,Male,14,Yes,HumanResources,Allahabad
+Aswini,919030817279,aswininarayan.gandi@gmail.com,86.0,CapGemini,26.0,Single,Male,15,Yes,HumanResources,Imphal
+Shubhrajit Mohapatra,917978415449,shubhrajit030@gmail.com,63.0,Tech Mahindra,24.0,Single,Male,14,Yes,HumanResources,Allahabad
+Atul Nehete,919657701153,ngatul2@gmail.com,78.0,HCL,34.0,Single,Male,8,Yes,HumanResources,Agartala
+Nirupama Pal,919739049961,nirupal.itprof@gmail.com,83.0,Tech Mahindra,29.0,Single,Male,16,Yes,HumanResources,Tinsukia
+Varun Sundaresh,918600992354,vrn.vsk@gmail.com,50.0,IBrand Solutions,50.0,Married,Female,13,Yes,HumanResources,Gangtok
+Amit Patil,918055589090,amitpatil.09@gmail.com,85.0,CapGemini,24.0,Single,Male,18,Yes,HumanResources,Bhubaneshwar
+CHAMAK Gupta,919923538450,chamak.gupta@gmail.com,67.0,Team Embedded,43.0,Married,Female,7,Yes,HumanResources,Guwuhati
+Ashok Gual,919901439279,gualashok@gmail.com,88.0,CTS,28.0,Single,Male,8,Yes,HumanResources,Imphal
+Amit Jain,919560525436,axaptaamit@yahoo.com,55.0,Cravaka Info Systems,41.0,Married,Female,19,Yes,HumanResources,Darjeeling
+Divya,919840307519,dirajase@gmail.com,73.0,Brihaspathi TechnologiesMBR Informatics,33.0,Married,Female,18,Yes,HumanResources,Kohima
+Fawaz Khan,917075833020,fawazalikhan08@gmail.com,9.0,Impecsoft Solutions,40.0,Married,Female,9,Yes,HumanResources,Patna
+chandeep Kaur,919560583665,chandeep.virdi@gmail.com,82.0,CTS,26.0,Single,Male,13,Yes,HumanResources,Allahabad
+Maheshwar,919962342368,agra.mahesh@gmail.com,42.0,Innvectra Softech,48.0,Married,Female,19,Yes,HumanResources,Agartala
+Ankit Tripathi,7697532037,ankittripathi0908@gmail.com,34.0,Yana Software Private LimitedOlympiasoft,43.0,Married,Female,10,Yes,HumanResources,Dimapur
+Manoj Paliwal,919582212487,manojpaliwal@gmail.com,67.0,Techno Brain Ltd,32.0,Married,Female,13,Yes,HumanResources,Guwuhati
+Chethana,919100367191,chethanakarne09@gmail.com,66.0,Software Solutions,41.0,Married,Female,15,Yes,Sales,Patna
+Deva Bhaktuni,966595038989,devabhaktuni@hotmail.com,78.0,EON Technologies,41.0,Married,Female,19,Yes,Sales,Dimapur
+Bhavyaharidas Haridas,919742412681,bhavyaharidas@gmail.com,80.0,Genpact,29.0,Single,Male,19,Yes,Sales,Thane
+Aonand Mahadevan Iyer Mahadevan,917338874716,anandmaha@hotmail.com,55.0,Rapidsoft Technologies Pvt Ltd,31.0,Married,Female,11,Yes,Sales,Bhopal
+Simran Khanna,917011546820,simran.k.chadha@gmail.com,72.0,Google,30.0,Single,Male,15,Yes,Sales,Bhopal
+Bhaskar Nandi,917893950326,bhaskarnandi25@gmail.com,3.0,TCS,22.0,Single,Male,20,Yes,Sales,Lonavala
+Devender Ahirwar,918143917044,devenderkumar090@gmail.com,56.0,Toshiba Software India Pvt ltd,44.0,Married,Female,8,Yes,Sales,Pachmarhi
+Bharath Undurthi,919652522282,bharath4bi@gmail.com,82.0,HCL,30.0,Single,Male,10,Yes,Sales,Thane
+Dhruval Mandaliya,919099486187,dhruvalsoni.ds@gmail.com,60.0,Embassy IT Solutions,53.0,Married,Female,9,Yes,Sales,Lonavala
+VENUGOPALACHARY,919886394172,vgopal012@gmail.com,51.0,CTS,22.0,Single,Male,7,Yes,Sales,Surat
+MADHURI CHERUKURI,918124756363,madhu.cbit07@gmail.com,72.0,Tech Mahindra,44.0,Married,Female,19,Yes,Sales,Mumbai
+Sonal Sinha,917718862713,sonals541@gmail.com,36.0,CTS,24.0,Single,Male,16,Yes,Sales,Solapur
+Anuradha,919849205522,katreddianu@gmail.com,59.0,Wipro,43.0,Single,Male,15,Yes,Sales,Mahabaleshwar
+Abhishek Thakur,919920094751,abhithakur3291@gmail.com,76.0,VeServ,54.0,Married,Female,19,Yes,Sales,Bhopal
+Prakash,919884091210,mrlprakash@gmail.com,57.0,IBM,49.0,Single,Male,8,Yes,Sales,Solapur
+Amitav Anand,919740060243,amitav2000@gmail.com,55.0,Tech Mahindra,30.0,Single,Male,13,Yes,Sales,Mahabaleshwar
+Shivali Chopra,919818518587,shivalichopra86@gmail.com,24.0,Eclature Technologies,37.0,Married,Female,15,Yes,Sales,Mahabaleshwar
+Nishant Joshi,919867350842,nishu.joshi1008@gmail.com,70.0,Google,26.0,Single,Male,13,Yes,Sales,Nasik
+Prashant,918746873088,prashantagejapati@gmail.com,16.0,Genpact,25.0,Single,Male,16,Yes,Sales,Mahabaleshwar
+Chintan Mistry,919712949406,chints.zeropoint@gmail.com,73.0,Tech Mahindra,36.0,Single,Male,13,Yes,Sales,Solapur
+Vivek Gulavani,919980902291,vivekgulavani@gmail.com,53.0,CTS,39.0,Single,Male,17,Yes,Sales,Aurangabad
+Gurpreet Kaur,919810332240,gurpreetkr.73@gmail.com,66.0,Harini Informatics,35.0,Married,Female,20,Yes,Sales,Rajkot
+vijay Mukkala,918095457714,vijaymukkala27@gmail.com,8.0,Info Edge Solutions,51.0,Married,Female,20,Yes,Sales,Mahabaleshwar
+Shukla,919919315091,s.shukla9919@gmail.com,67.0,Hi Caliber IT Solutions,42.0,Married,Female,15,Yes,Sales,Rajkot
+Sanjeetha Chinthala,917019192137,sanjeeta83@gmail.com,79.0,Brio Technologies Private Limited,43.0,Married,Female,12,Yes,Sales,Bhopal
+SRINIVASAN Baskaran,919176673034,cheenu_vasan@yahoo.com,82.0,Tech Mahindra,28.0,Single,Male,7,Yes,Sales,Mahabaleshwar
+Pranith Gottigundala,917995945595,pranith.gl@gmail.com,80.0,HCL,27.0,Single,Male,11,Yes,Sales,Satara
+Ranjini,919743671071,ranju.chennu@gmail.com,84.0,Infosys,29.0,Single,Male,12,Yes,Sales,Nasik
+Kiran Kumar Thatikayala,919989482481,kirufru@gmail.com,80.0,IBM,30.0,Single,Male,12,Yes,Sales,Pachmarhi
+Shripad Pansare,919773532850,pansareshripad@gmail.com,89.0,CTS,27.0,Single,Male,20,Yes,Sales,Thane
+Sandeep,919920666827,sandeepshaw@gmail.com,57.0,I2Space Technologies,36.0,Married,Female,19,Yes,Sales,Rajkot
+Ashish Kumar,918105903111,ashishkumar26@gmail.com,59.0,Jaro Education,35.0,Married,Female,9,Yes,Sales,Surat
+Akansha Sharma,919958454163,aamy_2020@yahoo.co.in,88.0,Accenture,27.0,Single,Male,11,Yes,Sales,Thane
+Nupur Aggarwal,919810813145,aggarwalnupur@gmail.com,77.0,Omniscient IT Solutions Pvt Ltd,43.0,Married,Female,15,Yes,Sales,Nagpur
+Supriya Bisht,919971084865,scopriya@gmail.com,5.0,Esalemedia,41.0,Married,Female,15,Yes,Sales,Solapur
+Basker Nadar,919833088637,basker.nadar@gmail.com,69.0,Askmeguru,54.0,Married,Female,8,Yes,Sales,Ahemdabad
+Akshay Kale,917259589677,akale188@gmail.com,55.0,Google,28.0,Single,Male,14,Yes,Sales,Lonavala
+Raj Nayak,919322996083,rajsarvesh14@yahoo.co.in,60.0,Deloitte,38.0,Single,Male,7,Yes,Sales,Nagpur
+Srujan Mitta,919717152826,srujanmitta@gmail.com,61.0,Metacube Software Pvt. Ltd,46.0,Married,Female,17,Yes,Sales,Aurangabad
+Shekhar,917349754511,shekhar79@yahoo.com,68.0,Accuracy,36.0,Married,Female,9,Yes,Sales,Mahabaleshwar
+Dipu,919845601494,mrdipujoy@gmail.com,88.0,Amazon,27.0,Single,Male,8,Yes,Sales,Nasik
+Sachin Vatsaraj,919987007384,sacsvat@yahoo.com,73.0,Mindtree,45.0,Married,Female,11,Yes,Sales,Surat
+Indraneil Ghose,919819721313,indraneilghose@yahoo.co.in,62.0,IntelloLabs,37.0,Married,Female,17,Yes,Marketing,Nasik
+Laxmi Tulasi,919704177379,bl.tuls@gmail.com,80.0,Genpact,24.0,Single,Male,20,Yes,Marketing,Pachmarhi
+Biz,919620628247,biz.ajg@gmail.com,54.0,CapGemini,32.0,Single,Male,14,Yes,Marketing,Lonavala
+Komal Sharma,917204104517,komalsharma.ks2310@gmail.com,66.0,Deloitte,34.0,Single,Male,11,Yes,Marketing,Satara
+Shreha Jalan,919776643544,shrehajalan1812@gmail.com,58.0,Intelex Systems,31.0,Married,Female,11,Yes,Marketing,Ahemdabad
+Tushar patil,917066541255,tusharpatil1363@gmail.com,53.0,Sopra Steria,52.0,Married,Female,12,Yes,Marketing,Mumbai
+Leena Herwadkar Joshi,919822603852,lherwadkar@gmail.com,73.0,IBrand Solutions,39.0,Married,Female,19,Yes,Marketing,Pachmarhi
+Madhusudhan,919886022763,madhusudhan.g.s@gmail.com,84.0,IBM,24.0,Single,Male,16,Yes,Marketing,Lonavala
+Nitesh,919980708840,niteshsrivastava21@gmail.com,68.0,Team Embedded,52.0,Married,Female,12,Yes,Marketing,Nagpur
+Ajay,919871471088,ajaydyudi@gmail.com,88.0,Genpact,23.0,Single,Male,10,Yes,Marketing,Surat
+Amit Yadav,918777615545,aamityadav1415@gmail.com,82.0,Wipro,23.0,Single,Male,12,Yes,Marketing,Satara
+Rohit Dutta,919625332050,rdutta87@gmail.com,29.0,Accenture,41.0,Single,Male,17,Yes,Marketing,Nagpur
+B V Santosh Kumar,919999755915,sanmca83@gmail.com,83.0,Genpact,23.0,Single,Male,9,Yes,Marketing,Nagpur
+Shivendra Kumar,917827007086,shivendra4083@gmail.com,73.0,Amazon,23.0,Single,Male,17,Yes,Marketing,Mahabaleshwar
+BHUPESH SOOD,919974803399,info@complianceforgrowth.com,62.0,Microsoft,23.0,Single,Male,9,Yes,Marketing,Thane
+Deepjyoti Mukherjee,919674768037,deepjyotimukherjee.suman@gmail.com,88.0,IBM,23.0,Single,Male,19,Yes,Marketing,Aurangabad
+Adithya,919742398313,adityamkumar@gmail.com,75.0,Genpact,27.0,Single,Male,14,Yes,Marketing,Mahabaleshwar
+Manmohan,918130233989,yourmanmohan@gmail.com,80.0,IBM,26.0,Single,Male,12,Yes,Marketing,Pachmarhi
+Joe Prem Kumar,919629665934,spljoe@gmail.com,64.0,Cravaka Info Systems,38.0,Married,Female,10,Yes,Marketing,Surat
+Sarat Nakkina,919884200422,sarat.nakkina@gmail.com,71.0,Brihaspathi TechnologiesMBR Informatics,38.0,Married,Female,17,Yes,Marketing,Pachmarhi
+Rajshekar Aligate,919987789419,shekaraligate@gmail.com,73.0,Impecsoft Solutions,52.0,Married,Female,7,Yes,Marketing,Rajkot
+Venkat,919703087115,pammivenkat@gmail.com,41.0,Google,42.0,Single,Male,8,Yes,Marketing,Solapur
+Purnananda,919015048236,purna.behera@hotmail.com,72.0,Tech Mahindra,30.0,Single,Male,11,Yes,Marketing,Ahemdabad
+Bhavana Gupta,919711760721,gupta.bhavana83@gmail.com,75.0,HCL,25.0,Single,Male,7,Yes,Marketing,Ahemdabad
+Ganesh Kakkireni,919703362199,gani247@gmail.com,52.0,CapGemini,30.0,Single,Male,14,Yes,Marketing,Rajkot
+Anuradha Gupta,919987883456,ms.anuradhagupta@gmail.com,88.0,Genpact,27.0,Single,Male,8,Yes,Marketing,Mumbai
+Aniruddha joshi,918411059067,ani.joshi@gmail.com,83.0,TCS,25.0,Single,Male,13,Yes,Marketing,Nagpur
+Sowmya Premakumaran,919677270355,sowmyasubhi@gmail.com,70.0,Tech Mahindra,26.0,Single,Male,13,Yes,Marketing,Nagpur
+Sunil Kumar Mano,919003390311,sunilkumarm.182@gmail.com,85.0,Google,22.0,Single,Male,19,Yes,Marketing,Goa
+Sonal Virmani,919871763984,sonal.virmani@gmail.com,60.0,Innvectra Softech,33.0,Married,Female,12,Yes,Marketing,Nasik
+ABHISHEK SINGH,919891436641,abhishek.singh.18@gmail.com,59.0,Google,29.0,Single,Male,13,Yes,Marketing,Aurangabad
+ANIL KUMAR,919880448438,anil1024@gmail.com,66.0,Infosys,31.0,Single,Male,15,Yes,Marketing,Nasik
+Bhaskar Jha,919953327147,bhaskarj4@gmail.com,19.0,Yana Software Private LimitedOlympiasoft,43.0,Married,Female,12,Yes,Marketing,Surat
+Neenu Verma,919501520678,neenuverma@gmail.com,68.0,Tech Mahindra,31.0,Single,Male,9,Yes,Marketing,Rajkot
+Smita kumar,919930995127,smita.kumar.jeet@gmail.com,84.0,IBM,23.0,Single,Male,7,Yes,Marketing,Lonavala
+Sudipta Paul,918337093337,sudiptapaul1978@gmail.com,80.0,CTS,30.0,Single,Male,19,Yes,Marketing,Lonavala
+Umesh Nand,919035604047,unand4@gmail.com,55.0,Techno Brain Ltd,40.0,Married,Female,20,Yes,Marketing,Surat
+Mithun,919176470914,mithun1012@gmail.com,82.0,Accenture,28.0,Single,Male,16,Yes,Marketing,Lonavala
+Shikha gurjar,917693003293,shikhagurjar32@gmail.com,56.0,Google,32.0,Single,Male,20,Yes,Marketing,Goa
+SAURABH SINHA,917633985081,mail2saurabhsinha@gmail.com,83.0,Microsoft,27.0,Single,Male,18,Yes,Marketing,Goa
+Satyajeet Reddy,919673854111,satyajeetreddy@yahoo.com,50.0,Amazon,51.0,Single,Male,14,Yes,Marketing,Surat
+Deepak Pandalai,919746941727,deepakp999@gmail.com,69.0,Software Solutions,40.0,Married,Female,11,Yes,Marketing,Nasik
+Swati Singh,918802497019,swatiparihar1995@gmail.com,67.0,Microsoft,40.0,Single,Male,19,Yes,Marketing,Mahabaleshwar

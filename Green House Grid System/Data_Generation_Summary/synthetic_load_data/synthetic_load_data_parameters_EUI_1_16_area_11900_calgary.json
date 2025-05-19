@@ -1,0 +1,23 @@
+{
+    "hours_per_day": 24,
+    "days_per_year": 365,
+    "daily_fluctuation": 60,
+    "weekend_daily_fluctuation": 20,
+    "seasonal_fluctuation": 120,
+    "temperature_variation": 3,
+    "comfort_temp": 22,
+    "sigma_day": 10,
+    "sigma_night": 1,
+    "sigma_weekend": 5,
+    "weekend_multiplier": 0.8,
+    "day_night_threshold": 7,
+    "weekend_smoothing_factor": 0.1,
+    "weekdays_include_saturday": false,
+    "transition_hours": 1,
+    "daily_phase_shift": 0,
+    "seasonal_phase_shift": -165,
+    "seasonal_frequency": 2,
+    "humidity_variation": 0.3,
+    "comfort_humidity": 50,
+    "wind_speed_variation": 0.05
+}
